@@ -1,0 +1,1 @@
+mkdir -p ~/.local/share/powershell/Modules/QOpsModule && cp -r /workspaces/test_repository_cs/QOpsModule ~/.local/share/powershell/Modules/

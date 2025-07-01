@@ -1,0 +1,73 @@
+[
+  {
+    "Profile": {
+      "GlobalEOLStyle": 0,
+      "Mode": 1,
+      "QlikSenseAuthMode": 1,
+      "QlikSenseOAuthAccessToken": "",
+      "QlikSenseOAuthRefreshToken": "",
+      "QopsProxyOauthUrl": "https://login.microsoftonline.com/f32f04b1-88b4-4571-a765-a97b4e717ad1/oauth2/v2.0/authorize?client_id=292894bf-5da6-4502-ad38-6be359809530",
+      "SenseCertificate": "",
+      "SensePassword": "",
+      "SenseUrl": "https://rds2.dvsts.com:8878/",
+      "SenseUser": "dvsts\\test"
+    },
+    "ProfileName": "proxy"
+  },
+  {
+    "Profile": {
+      "GlobalEOLStyle": 0,
+      "JwtToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOiJ0ZXN0IiwidXNlcmRpcmVjdG9yeSI6IkRWU1RTIn0.cGbQn7pTH3UqlaIXiIJZOs-BWuTwu8GPAIAidia20iHtEC3F5qS8lIEcIwdfyRKgK4eCYsYiR39xUiaQdwgIJVdTWXQCSTUZf5-pPK-Kliid_sVP-1rAe4-XJWHp5nTkDzzemiKqRT7ltQn-4geMWwR8TpsKFfvqh1QUErHsCgtZOob7rim9lxx8EsoelwtZ_DKpkEB4pgQUQ9yeClF4xl9ORr-zH4H_wumoTMduslxouG7Ka_tWKW3T-XgrLfwo8w7CoikALYC05Ebz4fcUVhm8GHpIUA4oaxk1uN0s42JAXbIXEc3fLYofplhukRwRGXA2L-sizJ16qJT-JOGrhLhilV-syZQwpjKNO4aKE8uYhTfWcqHb5L-hxNVL_qpzFWzqO3XJh8bMw0ZszdmZrKNdQbUIRGqfBckLVJ4hOv0jiI0jyUAYpF_CtAUgmzgeCdM-oziwIYEbBODuWxwP0d2TAhEBlSdMWpx9lGgmbV-csgfcxefLk8sME8JbTE_W0Kgod8WNV3VO9x7Wi7ZKqILd60Oz9Yt-WUisZguiP7NkZazk62pHjpjCmddeS4zmWuKnLq-VOcOSa3v6jbR4aQg5CcxEmLS_Oz2j9NlDiFEPaO60tf29Mx8CAO6HkX1CMFXDcgnBm3cVHoHuqk93YhFAPsp43ZrvazoqgF4D4d8",
+      "Mode": 1,
+      "Prefix": "jwt",
+      "QlikSenseAuthMode": 2,
+      "QlikSenseOAuthAccessToken": "",
+      "QlikSenseOAuthRefreshToken": "",
+      "SenseCertificate": "",
+      "SensePassword": "",
+      "SenseSessionCookie": "X-Qlik-Session-jwt-new=bacba79e-8f4d-46f2-9ec1-c7930c9d9bd8",
+      "SenseUrl": "https://rds2.dvsts.com/",
+      "SenseUser": "dvsts\\test"
+    },
+    "ProfileName": "jwt"
+  },
+  {
+    "Profile": {
+      "GlobalEOLStyle": 0,
+      "ApiKey": "eyJhbGciOiJFUzM4NCIsImtpZCI6IjdjNTk1OWJiLTc1Y2EtNGVjOC04ODFkLWJkYWIwMDkwYTFjZiIsInR5cCI6IkpXVCJ9.eyJzdWJUeXBlIjoidXNlciIsInRlbmFudElkIjoid01GNDFUd0NhUUloVFE2RWlPTHZaMm52eV82MW01d0MiLCJqdGkiOiI3YzU5NTliYi03NWNhLTRlYzgtODgxZC1iZGFiMDA5MGExY2YiLCJhdWQiOiJxbGlrLmFwaSIsImlzcyI6InFsaWsuYXBpL2FwaS1rZXlzIiwic3ViIjoiNjRkMGVmYjA2MmEyOTFkOTNlYjdjMDEwIn0.v2yCHZC7utVbKlCxZmK8Ks5x9bRMdM-46UJ6-2bvcfV2Fw-eRVvSS24r6uyu3RkyORkaYYdASoRi7AEwpgz0hb4Q2WLOjQq0s-LPpIEp9LdUpO6bfoJWtEXlEDy4yuuj",
+      "Mode": 3,
+      "QlikSenseAuthMode": 0,
+      "QlikSenseOAuthAccessToken": "",
+      "QlikSenseOAuthRefreshToken": "",
+      "SenseCertificate": "",
+      "SensePassword": "",
+      "SenseUrl": "https://merckgroup.eu.qlikcloud.com/",
+      "SenseUser": ""
+    },
+    "ProfileName": "merck"
+  },
+  {
+    "Profile": {
+      "GlobalEOLStyle": 0,
+      "ApiKey": "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000614ee31fa1cb254194fef8197819f8b60000000002000000000003660000c0000000100000007c34a345340aa448c3f4ccfd2037980e0000000004800000a0000000100000003b6820477b7c765543d56337d607d934b80300006538c28b0809fb5d09f7d495a2642908fe031f7535763e439e551cec183593c369d0cebd75669709188ba4b727673baac3b13288d91c8448283a0d53570bb5f5d822b4dfec673aeb7bf59cddcb21753e5ea89eb961e3cd29ecb76a4e2b0e74299d2eac0ed60a4744929c51ee511c2487948ee2daae3036357be4e4eafb20e371338ccaf66e51e3336500cacaeedd63a925b9ded5b35d9de6c783fdf2e75af150af01b8c1afa4aa9da79e5959ca6e8f2ea0973fe068f966f7aa8c9dde170218c4b995ab1f2911bdee8705bc922e48c0fb13e4341e74ec5848320c9412f4afc0d2a792dd3e68c2e4f44af5a3566ac3a6b3a9e45615ed147bf916a08edbf968cb6127a62cac1a6f6aeedf646bde6ff780683f9b6b4b813a4e66f7d470c2b4bfcec8a3849ab20eb728cafa48034f2d6557c8b9fe73eead48b6aa2ab800eea5d90d9a2a67cc779c102a8ff1a47aaec785f97bbd4403978a8cf9714687e3d3b648cac75d7d2a2b446b9fe66b2fd4fa07eeaf0321634acbbce7a81cd02f2f59b04b48d46087849a8c1af9c8a74178806ede330c17d3686ca59cc6e74372fc9a2178db67001b5406873ee011928e94545b6f47764bb7756064c8daa042d756d641b1201de0fc8bc7c67aa1459de3e4458c631a0b723c3b8dbec2a52f6af434a46ff0c7b2214e516ffc86bb33cf521b6185e6ab912db51e6610e441cd149927227ff495defd44808b3a0e158a22f3d75ab3475d40a5722d02c343bad6a787165def99308e477a440316229a3a8c64684bd662f57cfe58b55e44b5ec152cc2031d15ae9b0b861d634a1a404fe937d1369df23325a467fe8b8002cdafebd3f5fdcd17b65e79aca42b688326c81f6a8dba653a6353649f9302521f52de36a8930e64678ba1e3a2ce8e68c292431df63580cc2705baad8b734c2cdb9128675715126003cff4a88d34579e0eb2c4be27f1f4eb45403af962289f787fc8b45e2d9f7d98e2a74cff4d1cbee14391a4ccad375b4249d4506bf896cc41cef11b749c8e83cc64e38510fd3af682f1d115949ea80f645d95744285206011e2f2b0c6126d41a0a2defa6efc2e20c2afaf72eaec22eb1c6a674dc78bf2368b3034d07be3a0658182affd9e0bee80b9a834ebf70e1bb9ed2689b914cecbeda1d5d58ffcb36f1a2bf1411b7ea0ab135d87a5928ba6c79b676744ccbe69bad36559c932d5de2a7be537872c03d1a456d102d38c437cdd90e3c1c497949bc2a2a769f8c70538e575ded5db538344d2727a43a5c6c075931f0fd5b608f2906b28dcd5da13e0e2b4a4224c33ff2471f2ec7d77cadb6517c0af141ef78c80ce8df9f889f45c9014000000e06a1eba7a734ab43dcb0d1fcd9f6231e8edbbbd",
+      "Mode": 3,
+      "QlikSenseAuthMode": 0,
+      "SenseUrl": "https://ansell.us.qlikcloud.com/"
+    },
+    "ProfileName": "cloud"
+  },
+  {
+    "Profile": {
+      "GlobalEOLStyle": 0,
+      "Mode": 1,
+      "QlikSenseAuthMode": 0,
+      "QlikSenseOAuthAccessToken": "",
+      "QlikSenseOAuthRefreshToken": "",
+      "SenseCertificate": "C://users/qops/client.pfx",
+      "SensePassword": "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000614ee31fa1cb254194fef8197819f8b60000000002000000000003660000c000000010000000c54ca3e83f03b24505bca12e2f9dcd370000000004800000a00000001000000009d8dcc0441f1ec8658264f453f1c5bf18000000f3666bf12069d224a926c07a9c0e3b71faccf2b4d7ce711614000000e4d63fb295f928683c96397e5753e1d91d1dacf8",
+      "SenseUrl": "https://rds2.dvsts.com:4747/",
+      "SenseUser": "dvsts\\test"
+    },
+    "ProfileName": "default"
+  }
+]
