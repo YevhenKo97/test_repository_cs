@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/dotnet/sdk:9.0",
+  "image": "ykovalenko19/qomod:0.001",
   "containerEnv": {
     "QOPS_LICENSE_KEY": "${{ secrets.QOPS_LICENSE_KEY }}"
   },
