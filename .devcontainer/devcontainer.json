@@ -1,5 +1,7 @@
 {
   "image": "ykovalenko19/qomod:0.001",
-  
-  "postCreateCommand": "bash -c \"mkdir -p ~/.local/share/powershell/Modules/QOpsModule && cp -r /workspaces/test_repository_cs/QOpsModule ~/.local/share/powershell/Modules/\"; pwsh -c \"write-host '$EnvQOPS_LICENSE_KEY'\"; pwsh -c \"write-host '$Env:QOPS_LICENSE_KEY'\"; pwsh -c \"QOps-Version -NoAutoUpdate\"; pwsh -c \"QOps-Activate -Value $Env:QOPS_LICENSE_KEY -Force\""  
+    "containerEnv": {
+    "QOPS_LICENSE_KEY": "QOPS_LICENSE_KEY"
+  },
+  "postCreateCommand": "bash -c \"mkdir -p ~/.local/share/powershell/Modules/QOpsModule && cp -r /workspaces/test_repository_cs/QOpsModule ~/.local/share/powershell/Modules/\"; pwsh -c \"write-host '$QOPS_LICENSE_KEY'\"; pwsh -c \"write-host '$Env:QOPS_LICENSE_KEY'\"; pwsh -c \"QOps-Version -NoAutoUpdate\"; pwsh -c \"QOps-Activate -Value $Env:QOPS_LICENSE_KEY -Force\""  
 }
