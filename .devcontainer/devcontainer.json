@@ -1,5 +1,5 @@
 {
-  "image": "ykovalenko19/qomod:0.003",
+  "image": "ykovalenko19/qomod:0.005",
   "containerEnv": {
   "QOPS_LICENSE_KEY": "QOPS_LICENSE_KEY"
   },
