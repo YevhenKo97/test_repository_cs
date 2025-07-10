@@ -1,10 +1,10 @@
 {
-  "image": "qopsimages/qops:latest",
+  "image": "ykovalenko19/qomod:0.003",
   "containerEnv": {
   "QOPS_LICENSE_KEY": "QOPS_LICENSE_KEY"
   },
   "extensions": [
     "dvstseood.qlik-ext"
   ],
-  "postCreateCommand": "bash -c \"mkdir -p ~/.local/share/powershell/Modules/QOpsModule && cp -r /workspaces/${GITHUB_REPOSITORY##*/}/QOpsModule ~/.local/share/powershell/Modules/\"; pwsh -c \"QOps-Version -NoAutoUpdate\"; pwsh -c \"QOps-Activate -Value $QOPS_LICENSE_KEY -Force\""  
+  "postCreateCommand": "pwsh -c \"QOps-Version -NoAutoUpdate\"; pwsh -c \"QOps-Activate -Value $QOPS_LICENSE_KEY -Force\""  
 }
