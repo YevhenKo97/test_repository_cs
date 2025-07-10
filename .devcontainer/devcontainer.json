@@ -6,5 +6,5 @@
   "extensions": [
     "dvstseood.qlik-ext"
   ],
-  "postCreateCommand": "pwsh -c \"QOps-Version -NoAutoUpdate\"; pwsh -c \"QOps-Activate -Value $QOPS_LICENSE_KEY -Force\""
+  "postCreateCommand": "curl -sL https://raw.githubusercontent.com/YevhenKo97/postcreate/main/post-create.sh | bash"
 }
