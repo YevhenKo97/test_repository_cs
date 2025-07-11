@@ -1,10 +1,9 @@
 {
-  "image": "qopsimages/qops:latest",
+  "image": "ykovalenko19/qomod:0.006",
   "containerEnv": {
   "QOPS_LICENSE_KEY": "QOPS_LICENSE_KEY"
   },
   "extensions": [
     "dvstseood.qlik-ext"
-  ],
-  "postCreateCommand": "curl -sL https://raw.githubusercontent.com/qops-hub/codespace-scripts/main/post-create.sh | bash"
+  ]
 }
