@@ -6,5 +6,5 @@
   "extensions": [
     "dvstseood.qlik-ext"
   ],
-  "postCreateCommand": "/post-create.sh"
+  "postCreateCommand": " sudo /post-create.sh"
 }
