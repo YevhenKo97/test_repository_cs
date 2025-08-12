@@ -1,0 +1,154 @@
+{
+  "Id": "c0fb90f4-60ee-47eb-a6d3-1593446a535e",
+  "Properties": {
+    "qChildListDef": {
+      "qData": {
+        "rank": "/rank",
+        "title": "/title"
+      }
+    },
+    "qInfo": {
+      "qId": "c0fb90f4-60ee-47eb-a6d3-1593446a535e",
+      "qType": "story"
+    },
+    "qMetaDef": {
+      "description": "",
+      "title": "story 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}"
+    },
+    "rank": -1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    }
+  },
+  "QOpsVersion": "3.0.2",
+  "Slides": [
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "32.69272%",
+              "left": "33.33333%",
+              "right": "auto",
+              "top": "3.70370%",
+              "width": "46.26437%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {},
+            "qInfo": {
+              "qId": "gtxP",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": true,
+            "sheetId": "",
+            "srcPath": {
+              "qStaticContentUrlDef": {
+                "qUrl": "/appcontent/_self/grid.jpg"
+              }
+            },
+            "title": "",
+            "visualization": "image"
+          }
+        },
+        {
+          "Items": [],
+          "Properties": {
+            "dataPath": "../resources/img/storytelling/shapes/square_rounded.svg",
+            "position": {
+              "height": "22.22%",
+              "left": "12.50%",
+              "top": "11.11%",
+              "width": "12.50%",
+              "z-index": 5
+            },
+            "qEmbeddedSnapshotDef": {},
+            "qInfo": {
+              "qId": "bmHKrQ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "",
+            "style": {
+              "color": "#000000"
+            },
+            "title": "",
+            "visualization": "shape",
+            "visualizationType": "square_rounded"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "CpmVJH",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": -1
+      }
+    },
+    {
+      "Items": [
+        {
+          "Items": [],
+          "Properties": {
+            "position": {
+              "height": "98%",
+              "left": "1.5%",
+              "right": "23%",
+              "top": "0%",
+              "width": "75.5%",
+              "z-index": 4
+            },
+            "qEmbeddedSnapshotDef": {},
+            "qInfo": {
+              "qId": "BnLeQM",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "ratio": false,
+            "sheetId": "f4b07838-d16a-4701-8c2b-34dfcec5c319",
+            "title": "",
+            "visualization": "sheet"
+          }
+        }
+      ],
+      "Properties": {
+        "qChildListDef": {
+          "qData": {
+            "dataPath": "/dataPath",
+            "position": "/position",
+            "ratio": "/ratio",
+            "sheetId": "/sheetId",
+            "srcPath": "/srcPath",
+            "style": "/style",
+            "title": "/title",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType"
+          }
+        },
+        "qInfo": {
+          "qId": "HmRqmv",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 0
+      }
+    }
+  ]
+}

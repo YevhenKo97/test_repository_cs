@@ -1,0 +1,194 @@
+Children: []
+Column: 6
+Height: 6
+Id: vSYwjk
+Properties:
+  color:
+    auto: true
+    autoMinMax: true
+    dimensionScheme: "12"
+    expressionIsColor: true
+    expressionLabel: ""
+    formatting:
+      numFormatFromTemplate: true
+    measureMax: 10
+    measureMin: 0
+    measureScheme: sg
+    mode: primary
+    paletteColor:
+      color: '#87205d'
+      index: 7
+    persistent: false
+    reverseScheme: false
+    useBaseColors: off
+    useDimColVal: true
+    useMeasureGradient: true
+  components:
+  - key: slices
+    style:
+      cornerRadius: 0
+      innerRadius: 0.55
+      strokeColor:
+        color: '#FFFFFF'
+        index: -1
+      strokeWidth: none
+  dataPoint:
+    auto: true
+    labelMode: share
+    labelValueMode: arc
+  dimensionTitle: true
+  disableNavMenu: false
+  donut:
+    showAsDonut: false
+  footnote: ""
+  legend:
+    dock: auto
+    show: true
+    showTitle: true
+  qHyperCubeDef:
+    qCalcCond: {}
+    qCalcCondition:
+      qCond: {}
+      qMsg: {}
+    qColumnOrder: []
+    qDimensions:
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: tXWcFD
+        othersLabel: Другие
+        qActiveField: 0
+        qFieldDefs:
+        - Shipping_City
+        qFieldLabels:
+        - ""
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByAscii: 1
+          qSortByLoadOrder: 1
+          qSortByNumeric: 1
+      qOtherLabel:
+        qv: Другие
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted:
+          qv: "10"
+        qOtherLimit:
+          qv: "0"
+        qOtherLimitMode: OTHER_GE_LIMIT
+        qOtherMode: OTHER_COUNTED
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    qDynamicScript: []
+    qExpansionState: []
+    qInitialDataFetch:
+    - qHeight: 500
+      qLeft: 0
+      qTop: 0
+      qWidth: 10
+    qInterColumnSortOrder:
+    - 1
+    - 0
+    qLayoutExclude:
+      qHyperCubeDef:
+        qCalcCond: {}
+        qCalcCondition:
+          qCond: {}
+          qMsg: {}
+        qColumnOrder: []
+        qDimensions: []
+        qDynamicScript: []
+        qExpansionState: []
+        qInitialDataFetch: []
+        qInterColumnSortOrder: []
+        qMaxStackedCells: 5000
+        qMeasures: []
+        qMode: S
+        qNoOfLeftDims: -1
+        qPseudoDimPos: -1
+        qReductionMode: N
+        qTitle: {}
+    qMaxStackedCells: 5000
+    qMeasures:
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: bySyn
+        numFormatFromTemplate: true
+        qAccumulate: 0
+        qActiveExpression: 0
+        qDef: Sum(Item_Price)
+        qExpressions: []
+        qGrouping: N
+        qNumFormat:
+          qnDec: 10
+          qType: U
+          qUseThou: 0
+        qTags: []
+      qMiniChartDef:
+        qAttributeExpressions: []
+        qMaxNumberPoints: -1
+        qOtherTotalSpec:
+          qApplyEvenWhenPossiblyWrongResult: true
+          qForceBadValueKeeping: true
+          qOtherCounted: {}
+          qOtherLimit: {}
+          qOtherLimitMode: OTHER_GT_LIMIT
+          qOtherMode: OTHER_OFF
+          qOtherSortMode: OTHER_SORT_DESCENDING
+          qReferencedExpression: {}
+          qTotalMode: TOTAL_OFF
+        qSortBy:
+          qExpression: {}
+      qSortBy:
+        qExpression: {}
+        qSortByLoadOrder: 1
+        qSortByNumeric: -1
+      qTrendLines: []
+    qMode: S
+    qNoOfLeftDims: -1
+    qPseudoDimPos: -1
+    qReductionMode: N
+    qSuppressMissing: true
+    qTitle: {}
+  qInfo:
+    qId: vSYwjk
+    qType: piechart
+  qMetaDef: {}
+  script: ""
+  showDetails: true
+  showDetailsExpression: false
+  showDisclaimer: true
+  showTitles: true
+  subtitle: ""
+  title: ""
+  tooltip:
+    auto: true
+    chart:
+      style:
+        size: medium
+    data: {}
+    hideBasic: false
+  version: 1.26.7
+  visualization: piechart
+QOpsVersion: 3.0.2
+Row: 0
+Title: ""
+Type: piechart
+Width: 6
+...

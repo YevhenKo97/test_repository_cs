@@ -1,0 +1,47 @@
+Children: []
+Id: 695d8da9-b285-435b-a40c-8b84dc45c35d
+Name: 
+Properties:
+  disableNavMenu: false
+  footnote: ""
+  qInfo:
+    qId: 695d8da9-b285-435b-a40c-8b84dc45c35d
+    qType: listbox
+  qListObjectDef:
+    disableNavMenu: false
+    footnote: ""
+    qDef:
+      autoSort: true
+      cId: FHUDqh
+      qActiveField: 0
+      qFieldDefs:
+      - Billing_City
+      qFieldLabels:
+      - ""
+      qGrouping: N
+      qNumberPresentations: []
+      qSortCriterias:
+      - qExpression: {}
+        qSortByAscii: 1
+        qSortByLoadOrder: 1
+        qSortByNumeric: 1
+        qSortByState: 1
+    qExpressions: []
+    qFrequencyMode: N
+    qInitialDataFetch: []
+    qOtherTotalSpec: {}
+    qShowAlternatives: true
+    showDetails: true
+    showDetailsExpression: false
+    showTitles: true
+    subtitle: ""
+    title: ""
+  qMetaDef: {}
+  showDetails: true
+  showDetailsExpression: false
+  showTitles: true
+  subtitle: ""
+  title: Billing_City
+  visualization: listbox
+QOpsVersion: 3.0.2
+...

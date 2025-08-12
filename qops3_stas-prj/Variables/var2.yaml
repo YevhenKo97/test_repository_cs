@@ -1,0 +1,16 @@
+Definition: "50"
+Description: var2 des
+IncludeInBookmark: false
+IsScript: false
+Name: var2
+NumberPresentation:
+  qDec: 
+  qFmt: 
+  qnDec: 10
+  qThou: 
+  qType: U
+  qUseThou: 0
+QOpsVersion: 3.0.2
+Tags: []
+Type: variable
+...

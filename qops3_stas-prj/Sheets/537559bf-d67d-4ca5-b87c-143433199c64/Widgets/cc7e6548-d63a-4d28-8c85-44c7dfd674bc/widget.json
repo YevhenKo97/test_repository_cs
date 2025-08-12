@@ -1,0 +1,116 @@
+{
+  "Children": [],
+  "Column": 4,
+  "Height": 3,
+  "Id": "cc7e6548-d63a-4d28-8c85-44c7dfd674bc",
+  "Properties": {
+    "actions": [
+      {
+        "actionLabel": "",
+        "actionType": "setVariable",
+        "automation": "",
+        "automationId": "",
+        "automationNotificationDuration": 4,
+        "automationOpenLinkSameWindow": false,
+        "automationPostData": false,
+        "automationShowNotification": false,
+        "automationTriggered": false,
+        "bookmark": "",
+        "cId": "gNaEycf",
+        "cyclicGroupId": "",
+        "field": "",
+        "indexStepper": 1,
+        "partial": false,
+        "showSystemVariables": false,
+        "softLock": false,
+        "value": "5",
+        "variable": "var2"
+      }
+    ],
+    "components": null,
+    "disableNavMenu": true,
+    "enabledCondition": 1,
+    "footnote": "",
+    "navigation": {
+      "action": "none",
+      "appid": "_self",
+      "chartId": "",
+      "odagLink": "",
+      "sameWindow": false,
+      "sheet": "",
+      "story": "",
+      "websiteUrl": ""
+    },
+    "qInfo": {
+      "qId": "cc7e6548-d63a-4d28-8c85-44c7dfd674bc",
+      "qType": "action-button"
+    },
+    "qMetaDef": {},
+    "showDetails": false,
+    "showDetailsExpression": false,
+    "showTitles": true,
+    "style": {
+      "background": {
+        "color": {
+          "color": "none",
+          "index": -1
+        },
+        "colorExpression": "",
+        "mode": "none",
+        "position": "centerCenter",
+        "size": "auto",
+        "url": {
+          "qStaticContentUrlDef": {}
+        },
+        "useColorExpression": false,
+        "useImage": false
+      },
+      "border": {
+        "color": {
+          "color": "none",
+          "index": -1
+        },
+        "colorExpression": "",
+        "radius": 0,
+        "useBorder": false,
+        "useColorExpression": false,
+        "width": 0
+      },
+      "font": {
+        "align": "center",
+        "color": {
+          "color": "#ffffff",
+          "index": -1
+        },
+        "colorExpression": "",
+        "fontFamily": "Source Sans Pro",
+        "size": 0.5,
+        "sizeBehavior": "responsive",
+        "sizeFixed": 20,
+        "style": {
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        "useColorExpression": false
+      },
+      "icon": {
+        "iconType": "",
+        "position": "left",
+        "useIcon": false
+      },
+      "label": "5",
+      "showLabel": true
+    },
+    "subtitle": "",
+    "title": "",
+    "useEnabledCondition": false,
+    "version": "1.40.0",
+    "visualization": "action-button"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 0,
+  "Title": "",
+  "Type": "action-button",
+  "Width": 4
+}

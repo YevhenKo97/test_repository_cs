@@ -1,0 +1,33 @@
+QOpsVersion: 3.0.2
+Sheet:
+  Approved: false
+  Description: ""
+  Id: LJJDnx
+  Owner:
+    userDirectory: DVSTS
+    userId: test
+  Published: true
+  Title: Test sheet
+SheetProperties:
+  Id: LJJDnx
+  Properties:
+    columns: 24
+    creationDate: 2025-02-24T08:31:06.5410000Z
+    customRowBase: 12
+    gridResolution: small
+    layoutOptions:
+      mobileLayout: LIST
+    qChildListDef:
+      qData:
+        title: /title
+    qInfo:
+      qId: LJJDnx
+      qType: sheet
+    qMetaDef:
+      description: ""
+      title: Test sheet
+    rank: 0
+    rows: 12
+    thumbnail:
+      qStaticContentUrlDef: {}
+...

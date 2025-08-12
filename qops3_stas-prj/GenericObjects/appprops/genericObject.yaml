@@ -1,0 +1,28 @@
+Children: []
+Id: appprops
+Name: 
+Properties:
+  chartAnimations: true
+  defaultBookmarkId: 8cf6cda8-1a96-4b5c-bb1a-b9225e0317b1
+  disableCellNavMenu: false
+  enableHcModifiers: true
+  qInfo:
+    qId: appprops
+    qType: appprops
+  qMetaDef: {}
+  rtl: false
+  sheetLogoPosition: center
+  sheetLogoThumbnail:
+    qStaticContentUrlDef:
+      qUrl: /appcontent/_self/preview.jpg
+  sheetTitleBgColor:
+    color: '#e0bd8d'
+    index: 11
+  sheetTitleColor: '#006580'
+  sheetTitleGradientColor:
+    color: '#e1dad5'
+    index: 12
+  theme: horizon
+QOpsVersion: 3.0.2
+StateNames: []
+...

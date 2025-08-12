@@ -1,0 +1,52 @@
+Children: []
+Column: 0
+Height: 0
+Id: 41bb718b-d0bf-424c-bb6f-91e1b0b9d2f1
+Properties:
+  disableNavMenu: false
+  footnote: ""
+  qInfo:
+    qId: 41bb718b-d0bf-424c-bb6f-91e1b0b9d2f1
+    qType: listbox
+  qListObjectDef:
+    disableNavMenu: false
+    footnote: ""
+    qDef:
+      autoSort: true
+      cId: JYysJj
+      qActiveField: 0
+      qFieldDefs:
+      - Billing_Country
+      qFieldLabels:
+      - ""
+      qGrouping: N
+      qNumberPresentations: []
+      qSortCriterias:
+      - qExpression: {}
+        qSortByAscii: 1
+        qSortByLoadOrder: 1
+        qSortByNumeric: 1
+        qSortByState: 1
+    qExpressions: []
+    qFrequencyMode: N
+    qInitialDataFetch: []
+    qOtherTotalSpec: {}
+    qShowAlternatives: true
+    showDetails: true
+    showDetailsExpression: false
+    showTitles: true
+    subtitle: ""
+    title: ""
+  qMetaDef: {}
+  showDetails: true
+  showDetailsExpression: false
+  showTitles: true
+  subtitle: ""
+  title: Billing_Country
+  visualization: listbox
+QOpsVersion: 3.0.2
+Row: 0
+Title: Billing_Country
+Type: listbox
+Width: 0
+...

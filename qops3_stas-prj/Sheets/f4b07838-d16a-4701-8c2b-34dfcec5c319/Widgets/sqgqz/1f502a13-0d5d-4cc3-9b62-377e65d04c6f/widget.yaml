@@ -1,0 +1,52 @@
+Children: []
+Column: 0
+Height: 0
+Id: 1f502a13-0d5d-4cc3-9b62-377e65d04c6f
+Properties:
+  disableNavMenu: false
+  footnote: ""
+  qInfo:
+    qId: 1f502a13-0d5d-4cc3-9b62-377e65d04c6f
+    qType: listbox
+  qListObjectDef:
+    disableNavMenu: false
+    footnote: ""
+    qDef:
+      autoSort: true
+      cId: JUyYpn
+      qActiveField: 0
+      qFieldDefs:
+      - Shipping_City
+      qFieldLabels:
+      - ""
+      qGrouping: N
+      qNumberPresentations: []
+      qSortCriterias:
+      - qExpression: {}
+        qSortByAscii: 1
+        qSortByLoadOrder: 1
+        qSortByNumeric: 1
+        qSortByState: 1
+    qExpressions: []
+    qFrequencyMode: N
+    qInitialDataFetch: []
+    qOtherTotalSpec: {}
+    qShowAlternatives: true
+    showDetails: true
+    showDetailsExpression: false
+    showTitles: true
+    subtitle: ""
+    title: ""
+  qMetaDef: {}
+  showDetails: true
+  showDetailsExpression: false
+  showTitles: true
+  subtitle: ""
+  title: Shipping_City
+  visualization: listbox
+QOpsVersion: 3.0.2
+Row: 0
+Title: Shipping_City
+Type: listbox
+Width: 0
+...

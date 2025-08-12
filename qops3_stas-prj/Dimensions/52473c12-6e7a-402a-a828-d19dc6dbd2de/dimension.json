@@ -1,0 +1,28 @@
+{
+  "Id": "52473c12-6e7a-402a-a828-d19dc6dbd2de",
+  "Properties": {
+    "qDim": {
+      "coloring": {
+        "changeHash": "0.2614954297378269",
+        "colorMapRef": "arvEMwe",
+        "hasValueColors": false
+      },
+      "qFieldDefs": [
+        "Billing_City"
+      ],
+      "qFieldLabels": [],
+      "qGrouping": "N",
+      "title": "dim2"
+    },
+    "qInfo": {
+      "qId": "52473c12-6e7a-402a-a828-d19dc6dbd2de",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "dim2"
+    }
+  },
+  "QOpsVersion": "3.0.2"
+}

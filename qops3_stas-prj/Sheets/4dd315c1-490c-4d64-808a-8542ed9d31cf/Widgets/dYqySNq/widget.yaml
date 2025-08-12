@@ -1,0 +1,99 @@
+Children: []
+Column: 0
+Height: 3
+Id: dYqySNq
+Properties:
+  actions:
+  - actionLabel: "1"
+    actionType: setVariable
+    automation: ""
+    automationId: ""
+    automationNotificationDuration: 4
+    automationOpenLinkSameWindow: false
+    automationPostData: false
+    automationShowNotification: false
+    automationTriggered: false
+    bookmark: ""
+    cId: psHStC
+    cyclicGroupId: ""
+    field: ""
+    indexStepper: 1
+    partial: false
+    showSystemVariables: false
+    softLock: false
+    value: "1"
+    variable: var2
+  components: 
+  disableNavMenu: true
+  enabledCondition: 1
+  footnote: ""
+  navigation:
+    action: none
+    appid: _self
+    chartId: ""
+    odagLink: ""
+    sameWindow: false
+    sheet: ""
+    story: ""
+    websiteUrl: ""
+  qInfo:
+    qId: dYqySNq
+    qType: action-button
+  qMetaDef: {}
+  showDetails: false
+  showDetailsExpression: false
+  showTitles: true
+  style:
+    background:
+      color:
+        color: none
+        index: -1
+      colorExpression: ""
+      mode: none
+      position: centerCenter
+      size: auto
+      url:
+        qStaticContentUrlDef: {}
+      useColorExpression: false
+      useImage: false
+    border:
+      color:
+        color: none
+        index: -1
+      colorExpression: ""
+      radius: 0
+      useBorder: false
+      useColorExpression: false
+      width: 0
+    font:
+      align: center
+      color:
+        color: '#ffffff'
+        index: -1
+      colorExpression: ""
+      fontFamily: Source Sans Pro
+      size: 0.5
+      sizeBehavior: responsive
+      sizeFixed: 20
+      style:
+        bold: true
+        italic: false
+        underline: false
+      useColorExpression: false
+    icon:
+      iconType: ""
+      position: left
+      useIcon: false
+    label: "1"
+    showLabel: true
+  subtitle: ""
+  title: ""
+  useEnabledCondition: false
+  version: 1.40.0
+  visualization: action-button
+QOpsVersion: 3.0.2
+Row: 0
+Title: ""
+Type: action-button
+Width: 4
+...

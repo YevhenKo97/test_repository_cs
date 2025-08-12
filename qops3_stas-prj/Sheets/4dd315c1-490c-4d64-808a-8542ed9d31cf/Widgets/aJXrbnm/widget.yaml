@@ -1,0 +1,952 @@
+Children: []
+Column: 12
+Height: 6
+Id: aJXrbnm
+Properties:
+  disableNavMenu: false
+  footnote: ""
+  qHyperCubeDef:
+    qCalcCond: {}
+    qCalcCondition:
+      qCond: {}
+      qMsg: {}
+    qColumnOrder: []
+    qDimensions:
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        qActiveField: 0
+        qFieldDefs:
+        - Billing_Phone
+        qFieldLabels: []
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByLoadOrder: 1
+      qOtherLabel: {}
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted: {}
+        qOtherLimit: {}
+        qOtherLimitMode: OTHER_GT_LIMIT
+        qOtherMode: OTHER_OFF
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: CTqPvND
+        othersLabel: Другие
+        qActiveField: 0
+        qFieldDefs:
+        - Order_Number
+        qFieldLabels:
+        - ""
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByLoadOrder: 1
+      qOtherLabel:
+        qv: Другие
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted:
+          qv: "10"
+        qOtherLimit:
+          qv: "0"
+        qOtherLimitMode: OTHER_GE_LIMIT
+        qOtherMode: OTHER_OFF
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: LmMyFQ
+        othersLabel: Другие
+        qActiveField: 0
+        qFieldDefs:
+        - Order_Shipping
+        qFieldLabels:
+        - ""
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByLoadOrder: 1
+      qOtherLabel:
+        qv: Другие
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted:
+          qv: "10"
+        qOtherLimit:
+          qv: "0"
+        qOtherLimitMode: OTHER_GE_LIMIT
+        qOtherMode: OTHER_OFF
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: gmxcmu
+        othersLabel: Другие
+        qActiveField: 0
+        qFieldDefs:
+        - Order_Status
+        qFieldLabels:
+        - ""
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByLoadOrder: 1
+      qOtherLabel:
+        qv: Другие
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted:
+          qv: "10"
+        qOtherLimit:
+          qv: "0"
+        qOtherLimitMode: OTHER_GE_LIMIT
+        qOtherMode: OTHER_OFF
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: BZmzm
+        othersLabel: Другие
+        qActiveField: 0
+        qFieldDefs:
+        - Order_Total_Tax
+        qFieldLabels:
+        - ""
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByLoadOrder: 1
+      qOtherLabel:
+        qv: Другие
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted:
+          qv: "10"
+        qOtherLimit:
+          qv: "0"
+        qOtherLimitMode: OTHER_GE_LIMIT
+        qOtherMode: OTHER_OFF
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: TpAjLdP
+        othersLabel: Другие
+        qActiveField: 0
+        qFieldDefs:
+        - Payment_Method_Title
+        qFieldLabels:
+        - ""
+        qGrouping: N
+        qNumberPresentations: []
+        qSortCriterias:
+        - qExpression: {}
+          qSortByLoadOrder: 1
+      qOtherLabel:
+        qv: Другие
+      qOtherTotalSpec:
+        qApplyEvenWhenPossiblyWrongResult: true
+        qForceBadValueKeeping: true
+        qOtherCounted:
+          qv: "10"
+        qOtherLimit:
+          qv: "0"
+        qOtherLimitMode: OTHER_GE_LIMIT
+        qOtherMode: OTHER_OFF
+        qOtherSortMode: OTHER_SORT_DESCENDING
+        qReferencedExpression: {}
+        qTotalMode: TOTAL_OFF
+      qTotalLabel: {}
+    qDynamicScript: []
+    qExpansionState: []
+    qInitialDataFetch: []
+    qInterColumnSortOrder:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 6
+    - 7
+    - 4
+    - 5
+    qLayoutExclude:
+      qHyperCubeDef:
+        qCalcCond: {}
+        qCalcCondition:
+          qCond: {}
+          qMsg: {}
+        qColumnOrder: []
+        qDimensions: []
+        qDynamicScript: []
+        qExpansionState: []
+        qInitialDataFetch: []
+        qInterColumnSortOrder: []
+        qMaxStackedCells: 5000
+        qMeasures: []
+        qMode: S
+        qNoOfLeftDims: -1
+        qPseudoDimPos: -1
+        qReductionMode: N
+        qTitle: {}
+    qMaxStackedCells: 5000
+    qMeasures:
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: muBwX
+        numFormatFromTemplate: true
+        qAccumulate: 0
+        qActiveExpression: 0
+        qDef: Sum(Order_Subtotal)
+        qExpressions: []
+        qGrouping: N
+        qNumFormat:
+          qnDec: 10
+          qType: U
+          qUseThou: 0
+        qTags: []
+      qMiniChartDef:
+        qAttributeExpressions: []
+        qMaxNumberPoints: -1
+        qOtherTotalSpec:
+          qApplyEvenWhenPossiblyWrongResult: true
+          qForceBadValueKeeping: true
+          qOtherCounted: {}
+          qOtherLimit: {}
+          qOtherLimitMode: OTHER_GT_LIMIT
+          qOtherMode: OTHER_OFF
+          qOtherSortMode: OTHER_SORT_DESCENDING
+          qReferencedExpression: {}
+          qTotalMode: TOTAL_OFF
+        qSortBy:
+          qExpression: {}
+      qSortBy:
+        qExpression: {}
+        qSortByLoadOrder: 1
+      qTrendLines: []
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: AzPPn
+        numFormatFromTemplate: true
+        qAccumulate: 0
+        qActiveExpression: 0
+        qDef: Sum(Order_Total)
+        qExpressions: []
+        qGrouping: N
+        qNumFormat:
+          qnDec: 10
+          qType: U
+          qUseThou: 0
+        qTags: []
+      qMiniChartDef:
+        qAttributeExpressions: []
+        qMaxNumberPoints: -1
+        qOtherTotalSpec:
+          qApplyEvenWhenPossiblyWrongResult: true
+          qForceBadValueKeeping: true
+          qOtherCounted: {}
+          qOtherLimit: {}
+          qOtherLimitMode: OTHER_GT_LIMIT
+          qOtherMode: OTHER_OFF
+          qOtherSortMode: OTHER_SORT_DESCENDING
+          qReferencedExpression: {}
+          qTotalMode: TOTAL_OFF
+        qSortBy:
+          qExpression: {}
+      qSortBy:
+        qExpression: {}
+        qSortByLoadOrder: 1
+      qTrendLines: []
+    qMode: S
+    qNoOfLeftDims: -1
+    qPseudoDimPos: -1
+    qReductionMode: N
+    qSuppressMissing: true
+    qTitle: {}
+  qInfo:
+    qId: aJXrbnm
+    qType: auto-chart
+  qMetaDef: {}
+  qUndoExclude:
+    generated:
+      disableNavMenu: false
+      footnote: ""
+      isRecommended: true
+      multiline:
+        wrapTextInCells: true
+        wrapTextInHeaders: true
+      qHyperCubeDef:
+        columnOrder:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        columnWidths:
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        qCalcCond: {}
+        qCalcCondition:
+          qCond: {}
+          qMsg: {}
+        qColumnOrder:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        qDimensions:
+        - othersLabel: Другие
+          qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: JVHVBmd
+            othersLabel: Другие
+            qActiveField: 0
+            qFieldDefs:
+            - Billing_Phone
+            qFieldLabels: []
+            qGrouping: N
+            qNumberPresentations: []
+            qSortCriterias:
+            - qExpression: {}
+              qSortByAscii: 1
+              qSortByLoadOrder: 1
+              qSortByNumeric: 1
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              linkUrl: ""
+              type: text
+              urlLabel: ""
+              urlPosition: dimension
+            textAlign:
+              align: left
+              auto: true
+          qOtherLabel: {}
+          qOtherTotalSpec:
+            qApplyEvenWhenPossiblyWrongResult: true
+            qForceBadValueKeeping: true
+            qOtherCounted:
+              qv: "10"
+            qOtherLimit:
+              qv: "0"
+            qOtherLimitMode: OTHER_GT_LIMIT
+            qOtherMode: OTHER_OFF
+            qOtherSortMode: OTHER_SORT_DESCENDING
+            qReferencedExpression: {}
+            qTotalMode: TOTAL_OFF
+          qTotalLabel: {}
+        - othersLabel: Другие
+          qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: MmmPrE
+            othersLabel: Другие
+            qActiveField: 0
+            qFieldDefs:
+            - Order_Number
+            qFieldLabels:
+            - ""
+            qGrouping: N
+            qNumberPresentations: []
+            qSortCriterias:
+            - qExpression: {}
+              qSortByAscii: 1
+              qSortByLoadOrder: 1
+              qSortByNumeric: 1
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              linkUrl: ""
+              type: text
+              urlLabel: ""
+              urlPosition: dimension
+            textAlign:
+              align: left
+              auto: true
+          qOtherLabel:
+            qv: Другие
+          qOtherTotalSpec:
+            qApplyEvenWhenPossiblyWrongResult: true
+            qForceBadValueKeeping: true
+            qOtherCounted:
+              qv: "10"
+            qOtherLimit:
+              qv: "0"
+            qOtherLimitMode: OTHER_GE_LIMIT
+            qOtherMode: OTHER_OFF
+            qOtherSortMode: OTHER_SORT_DESCENDING
+            qReferencedExpression: {}
+            qTotalMode: TOTAL_OFF
+          qTotalLabel: {}
+        - othersLabel: Другие
+          qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: LCQeF
+            othersLabel: Другие
+            qActiveField: 0
+            qFieldDefs:
+            - Order_Shipping
+            qFieldLabels:
+            - ""
+            qGrouping: N
+            qNumberPresentations: []
+            qSortCriterias:
+            - qExpression: {}
+              qSortByAscii: 1
+              qSortByLoadOrder: 1
+              qSortByNumeric: 1
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              linkUrl: ""
+              type: text
+              urlLabel: ""
+              urlPosition: dimension
+            textAlign:
+              align: left
+              auto: true
+          qOtherLabel:
+            qv: Другие
+          qOtherTotalSpec:
+            qApplyEvenWhenPossiblyWrongResult: true
+            qForceBadValueKeeping: true
+            qOtherCounted:
+              qv: "10"
+            qOtherLimit:
+              qv: "0"
+            qOtherLimitMode: OTHER_GE_LIMIT
+            qOtherMode: OTHER_OFF
+            qOtherSortMode: OTHER_SORT_DESCENDING
+            qReferencedExpression: {}
+            qTotalMode: TOTAL_OFF
+          qTotalLabel: {}
+        - othersLabel: Другие
+          qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: HdFT
+            othersLabel: Другие
+            qActiveField: 0
+            qFieldDefs:
+            - Order_Status
+            qFieldLabels:
+            - ""
+            qGrouping: N
+            qNumberPresentations: []
+            qSortCriterias:
+            - qExpression: {}
+              qSortByAscii: 1
+              qSortByLoadOrder: 1
+              qSortByNumeric: 1
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              linkUrl: ""
+              type: text
+              urlLabel: ""
+              urlPosition: dimension
+            textAlign:
+              align: left
+              auto: true
+          qOtherLabel:
+            qv: Другие
+          qOtherTotalSpec:
+            qApplyEvenWhenPossiblyWrongResult: true
+            qForceBadValueKeeping: true
+            qOtherCounted:
+              qv: "10"
+            qOtherLimit:
+              qv: "0"
+            qOtherLimitMode: OTHER_GE_LIMIT
+            qOtherMode: OTHER_OFF
+            qOtherSortMode: OTHER_SORT_DESCENDING
+            qReferencedExpression: {}
+            qTotalMode: TOTAL_OFF
+          qTotalLabel: {}
+        - othersLabel: Другие
+          qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: kDKUZK
+            othersLabel: Другие
+            qActiveField: 0
+            qFieldDefs:
+            - Order_Total_Tax
+            qFieldLabels:
+            - ""
+            qGrouping: N
+            qNumberPresentations: []
+            qSortCriterias:
+            - qExpression: {}
+              qSortByAscii: 1
+              qSortByLoadOrder: 1
+              qSortByNumeric: 1
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              linkUrl: ""
+              type: text
+              urlLabel: ""
+              urlPosition: dimension
+            textAlign:
+              align: left
+              auto: true
+          qOtherLabel:
+            qv: Другие
+          qOtherTotalSpec:
+            qApplyEvenWhenPossiblyWrongResult: true
+            qForceBadValueKeeping: true
+            qOtherCounted:
+              qv: "10"
+            qOtherLimit:
+              qv: "0"
+            qOtherLimitMode: OTHER_GE_LIMIT
+            qOtherMode: OTHER_OFF
+            qOtherSortMode: OTHER_SORT_DESCENDING
+            qReferencedExpression: {}
+            qTotalMode: TOTAL_OFF
+          qTotalLabel: {}
+        - othersLabel: Другие
+          qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: CQPen
+            othersLabel: Другие
+            qActiveField: 0
+            qFieldDefs:
+            - Payment_Method_Title
+            qFieldLabels:
+            - ""
+            qGrouping: N
+            qNumberPresentations: []
+            qSortCriterias:
+            - qExpression: {}
+              qSortByAscii: 1
+              qSortByLoadOrder: 1
+              qSortByNumeric: 1
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              linkUrl: ""
+              type: text
+              urlLabel: ""
+              urlPosition: dimension
+            textAlign:
+              align: left
+              auto: true
+          qOtherLabel:
+            qv: Другие
+          qOtherTotalSpec:
+            qApplyEvenWhenPossiblyWrongResult: true
+            qForceBadValueKeeping: true
+            qOtherCounted:
+              qv: "10"
+            qOtherLimit:
+              qv: "0"
+            qOtherLimitMode: OTHER_GE_LIMIT
+            qOtherMode: OTHER_OFF
+            qOtherSortMode: OTHER_SORT_DESCENDING
+            qReferencedExpression: {}
+            qTotalMode: TOTAL_OFF
+          qTotalLabel: {}
+        qDynamicScript: []
+        qExpansionState: []
+        qInitialDataFetch:
+        - qHeight: 0
+          qLeft: 0
+          qTop: 0
+          qWidth: 0
+        qInterColumnSortOrder:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        qMaxStackedCells: 5000
+        qMeasures:
+        - qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: bGgHhU
+            conditionalColoring:
+              segments:
+                limits: []
+                paletteColors:
+                - icon: dot
+                  index: 6
+            numFormatFromTemplate: true
+            qAccumulate: 0
+            qActiveExpression: 0
+            qAggrFunc: Expr
+            qDef: Sum(Order_Subtotal)
+            qExpressions: []
+            qGrouping: N
+            qNumFormat:
+              qnDec: 10
+              qType: U
+              qUseThou: 0
+            qTags: []
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              indicator:
+                applySegmentColors: false
+                position: right
+                showTextValues: true
+              miniChart:
+                colors:
+                  first:
+                    color: none
+                    index: 0
+                  last:
+                    color: none
+                    index: 0
+                  main:
+                    index: 6
+                  max:
+                    color: none
+                    index: 0
+                  min:
+                    color: none
+                    index: 0
+                  negative:
+                    color: '#f93f17'
+                    index: 10
+                  positive:
+                    index: 6
+                showDots: true
+                type: sparkline
+                yAxis:
+                  position: auto
+                  scale: local
+              type: text
+            textAlign:
+              align: left
+              auto: true
+          qMiniChartDef:
+            qAttributeExpressions: []
+            qMaxNumberPoints: -1
+            qOtherTotalSpec:
+              qApplyEvenWhenPossiblyWrongResult: true
+              qForceBadValueKeeping: true
+              qOtherCounted: {}
+              qOtherLimit: {}
+              qOtherLimitMode: OTHER_GT_LIMIT
+              qOtherMode: OTHER_OFF
+              qOtherSortMode: OTHER_SORT_DESCENDING
+              qReferencedExpression: {}
+              qTotalMode: TOTAL_OFF
+            qSortBy:
+              qExpression: {}
+          qSortBy:
+            qExpression: {}
+            qSortByLoadOrder: 1
+            qSortByNumeric: -1
+          qTrendLines: []
+        - qAttributeDimensions: []
+          qAttributeExpressions: []
+          qCalcCond: {}
+          qCalcCondition:
+            qCond: {}
+            qMsg: {}
+          qDef:
+            autoSort: true
+            cId: unppQxk
+            conditionalColoring:
+              segments:
+                limits: []
+                paletteColors:
+                - icon: dot
+                  index: 6
+            numFormatFromTemplate: true
+            qAccumulate: 0
+            qActiveExpression: 0
+            qAggrFunc: Expr
+            qDef: Sum(Order_Total)
+            qExpressions: []
+            qGrouping: N
+            qNumFormat:
+              qnDec: 10
+              qType: U
+              qUseThou: 0
+            qTags: []
+            representation:
+              imageLabel: ""
+              imagePosition: topCenter
+              imageSetting: label
+              imageSize: fitHeight
+              imageUrl: ""
+              indicator:
+                applySegmentColors: false
+                position: right
+                showTextValues: true
+              miniChart:
+                colors:
+                  first:
+                    color: none
+                    index: 0
+                  last:
+                    color: none
+                    index: 0
+                  main:
+                    index: 6
+                  max:
+                    color: none
+                    index: 0
+                  min:
+                    color: none
+                    index: 0
+                  negative:
+                    color: '#f93f17'
+                    index: 10
+                  positive:
+                    index: 6
+                showDots: true
+                type: sparkline
+                yAxis:
+                  position: auto
+                  scale: local
+              type: text
+            textAlign:
+              align: left
+              auto: true
+          qMiniChartDef:
+            qAttributeExpressions: []
+            qMaxNumberPoints: -1
+            qOtherTotalSpec:
+              qApplyEvenWhenPossiblyWrongResult: true
+              qForceBadValueKeeping: true
+              qOtherCounted: {}
+              qOtherLimit: {}
+              qOtherLimitMode: OTHER_GT_LIMIT
+              qOtherMode: OTHER_OFF
+              qOtherSortMode: OTHER_SORT_DESCENDING
+              qReferencedExpression: {}
+              qTotalMode: TOTAL_OFF
+            qSortBy:
+              qExpression: {}
+          qSortBy:
+            qExpression: {}
+            qSortByLoadOrder: 1
+            qSortByNumeric: -1
+          qTrendLines: []
+        qMode: S
+        qNoOfLeftDims: -1
+        qPseudoDimPos: -1
+        qReductionMode: N
+        qSuppressMissing: true
+        qTitle: {}
+      qInfo:
+        qType: table
+      qLayoutExclude:
+        disabled: {}
+        quarantine:
+          conditionalShowHide:
+            dimensions: {}
+            measures: {}
+          miniChartDef:
+            measures: {}
+      qStateName: ""
+      recommendation:
+        analysis:
+          analysis: list
+          dims:
+          - cType: eField
+            expr: Billing_Phone
+            field: Billing_Phone
+          - cType: eField
+            expr: Order_Number
+            field: Order_Number
+          - cType: eField
+            expr: Order_Shipping
+            field: Order_Shipping
+          - cType: eField
+            expr: Order_Status
+            field: Order_Status
+          - cType: eField
+            expr: Order_Total_Tax
+            field: Order_Total_Tax
+          - cType: eField
+            expr: Payment_Method_Title
+            field: Payment_Method_Title
+          msrs:
+          - cType: eField
+            expr: Sum(Order_Subtotal)
+            field: Order_Subtotal
+          - cType: eField
+            expr: Sum(Order_Total)
+            field: Order_Total
+      script: ""
+      scrolling:
+        horizontal: true
+        keepFirstColumnInView: false
+        keepFirstColumnInViewTouch: false
+      search:
+        sorting: auto
+      showDetails: true
+      showDetailsExpression: false
+      showTitles: true
+      subtitle: ""
+      title: ""
+      totals:
+        label: Итоги
+        position: noTotals
+        show: true
+      visualization: table
+    hashCode: 1492845431
+  script: ""
+  showDetails: true
+  showDetailsExpression: false
+  showTitles: true
+  subtitle: ""
+  title: ""
+  visualization: auto-chart
+QOpsVersion: 3.0.2
+Row: 6
+Title: ""
+Type: auto-chart
+Width: 12
+...

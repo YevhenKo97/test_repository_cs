@@ -1,0 +1,749 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "WERFeyU",
+  "Properties": {
+    "boxplotDef": {
+      "calculations": {
+        "auto": true,
+        "mode": "tukey",
+        "parameters": {
+          "fractiles": 0.01,
+          "stdDev": 3,
+          "tukey": 1.5
+        }
+      },
+      "color": {
+        "auto": true,
+        "box": {
+          "paletteColor": {
+            "color": "#e6e6e6",
+            "index": -1
+          }
+        },
+        "expressionIsColor": true,
+        "expressionLabel": "",
+        "mode": "primary",
+        "point": {
+          "paletteColor": {
+            "color": "#4477aa",
+            "index": 6
+          }
+        },
+        "useBaseColors": "off"
+      },
+      "elements": {
+        "boxEnd": {
+          "expression": null,
+          "name": ""
+        },
+        "boxMiddle": {
+          "expression": null,
+          "name": ""
+        },
+        "boxStart": {
+          "expression": null,
+          "name": ""
+        },
+        "firstWhisker": {
+          "expression": null,
+          "name": ""
+        },
+        "lastWhisker": {
+          "expression": null,
+          "name": ""
+        },
+        "outliers": {
+          "include": true,
+          "sortOutliers": true
+        }
+      },
+      "presentation": {
+        "whiskers": {
+          "show": true
+        }
+      },
+      "qHyperCubeDef": {
+        "qAlwaysFullyExpanded": true,
+        "qCalcCond": {},
+        "qCalcCondition": {
+          "qCond": {},
+          "qMsg": {}
+        },
+        "qColumnOrder": [],
+        "qDimensions": [
+          {
+            "qAttributeDimensions": [],
+            "qAttributeExpressions": [],
+            "qCalcCond": {},
+            "qCalcCondition": {
+              "qCond": {},
+              "qMsg": {}
+            },
+            "qDef": {
+              "autoSort": true,
+              "cId": "HUGGvb",
+              "othersLabel": "Другие",
+              "qActiveField": 0,
+              "qFieldDefs": [
+                "Billing_City"
+              ],
+              "qFieldLabels": [
+                ""
+              ],
+              "qGrouping": "N",
+              "qNumberPresentations": [],
+              "qSortCriterias": [
+                {
+                  "qExpression": {},
+                  "qSortByAscii": 1,
+                  "qSortByLoadOrder": 1,
+                  "qSortByNumeric": 1
+                }
+              ]
+            },
+            "qOtherLabel": {
+              "qv": "Другие"
+            },
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {
+                "qv": "10"
+              },
+              "qOtherLimit": {
+                "qv": "0"
+              },
+              "qOtherLimitMode": "OTHER_GE_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qSuppressOther": true,
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qTotalLabel": {}
+          }
+        ],
+        "qDynamicScript": [],
+        "qExpansionState": [],
+        "qInitialDataFetch": [],
+        "qInterColumnSortOrder": [
+          0,
+          1
+        ],
+        "qLayoutExclude": {
+          "qHyperCubeDef": {
+            "qCalcCond": {},
+            "qCalcCondition": {
+              "qCond": {},
+              "qMsg": {}
+            },
+            "qColumnOrder": [],
+            "qDimensions": [],
+            "qDynamicScript": [],
+            "qExpansionState": [],
+            "qInitialDataFetch": [],
+            "qInterColumnSortOrder": [],
+            "qMaxStackedCells": 5000,
+            "qMeasures": [],
+            "qMode": "S",
+            "qNoOfLeftDims": -1,
+            "qPseudoDimPos": -1,
+            "qReductionMode": "N",
+            "qTitle": {}
+          }
+        },
+        "qMaxStackedCells": 5000,
+        "qMeasures": [
+          {
+            "qAttributeDimensions": [],
+            "qAttributeExpressions": [],
+            "qCalcCond": {},
+            "qCalcCondition": {
+              "qCond": {},
+              "qMsg": {}
+            },
+            "qDef": {
+              "autoSort": true,
+              "cId": "eMZnPrM",
+              "numFormatFromTemplate": true,
+              "qAccumulate": 0,
+              "qActiveExpression": 0,
+              "qDef": "Sum(Item_Price)",
+              "qExpressions": [],
+              "qGrouping": "N",
+              "qNumFormat": {
+                "qnDec": 10,
+                "qType": "U",
+                "qUseThou": 0
+              },
+              "qTags": []
+            },
+            "qMiniChartDef": {
+              "qAttributeExpressions": [],
+              "qMaxNumberPoints": -1,
+              "qOtherTotalSpec": {
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qForceBadValueKeeping": true,
+                "qOtherCounted": {},
+                "qOtherLimit": {},
+                "qOtherLimitMode": "OTHER_GT_LIMIT",
+                "qOtherMode": "OTHER_OFF",
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qReferencedExpression": {},
+                "qTotalMode": "TOTAL_OFF"
+              },
+              "qSortBy": {
+                "qExpression": {}
+              }
+            },
+            "qSortBy": {
+              "qExpression": {},
+              "qSortByLoadOrder": 1,
+              "qSortByNumeric": -1
+            },
+            "qTrendLines": []
+          }
+        ],
+        "qMode": "S",
+        "qNoOfLeftDims": -1,
+        "qPseudoDimPos": -1,
+        "qReductionMode": "N",
+        "qSuppressMissing": true,
+        "qTitle": {}
+      },
+      "sorting": {
+        "autoSort": true
+      }
+    },
+    "components": null,
+    "dimensionAxis": {
+      "dock": "near",
+      "label": "auto",
+      "show": "all"
+    },
+    "disableNavMenu": false,
+    "footnote": "tit3 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+    "gridlines": {
+      "auto": true,
+      "spacing": 2
+    },
+    "measureAxis": {
+      "autoMinMax": true,
+      "dock": "near",
+      "max": 10,
+      "min": 0,
+      "minMax": "min",
+      "show": "all",
+      "spacing": 1
+    },
+    "orientation": "vertical",
+    "qInfo": {
+      "qId": "WERFeyU",
+      "qType": "boxplot"
+    },
+    "qMetaDef": {},
+    "qUndoExclude": {
+      "box": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [
+            {
+              "boxElement": "firstWhisker",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [
+                {
+                  "id": "tooltip",
+                  "qAttribute": true,
+                  "qExpression": "='Начало поля - 1.5 IQR'"
+                }
+              ],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "cId": "pUnJer",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qDef": "Rangemax(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 ) - ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Min( total  Aggr( Sum(Item_Price),  [Billing_City] )  ))",
+                "qExpressions": [],
+                "qGrouping": "N",
+                "qLabel": "Первый \"ус\"",
+                "qNumFormat": {
+                  "qnDec": 10,
+                  "qType": "U",
+                  "qUseThou": 0
+                },
+                "qTags": []
+              },
+              "qMiniChartDef": {
+                "qAttributeExpressions": [],
+                "qMaxNumberPoints": -1,
+                "qOtherTotalSpec": {
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qForceBadValueKeeping": true,
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qReferencedExpression": {},
+                  "qTotalMode": "TOTAL_OFF"
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                }
+              },
+              "qSortBy": {
+                "qExpression": {}
+              },
+              "qTrendLines": []
+            },
+            {
+              "boxElement": "boxStart",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [
+                {
+                  "id": "tooltip",
+                  "qAttribute": true,
+                  "qExpression": "='Первый квартиль'"
+                }
+              ],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "cId": "dPRqBB",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qDef": "Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )",
+                "qExpressions": [],
+                "qGrouping": "N",
+                "qLabel": "Начало поля",
+                "qNumFormat": {
+                  "qnDec": 10,
+                  "qType": "U",
+                  "qUseThou": 0
+                },
+                "qTags": []
+              },
+              "qMiniChartDef": {
+                "qAttributeExpressions": [],
+                "qMaxNumberPoints": -1,
+                "qOtherTotalSpec": {
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qForceBadValueKeeping": true,
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qReferencedExpression": {},
+                  "qTotalMode": "TOTAL_OFF"
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                }
+              },
+              "qSortBy": {
+                "qExpression": {}
+              },
+              "qTrendLines": []
+            },
+            {
+              "boxElement": "boxMiddle",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [
+                {
+                  "id": "tooltip",
+                  "qAttribute": true,
+                  "qExpression": "='Медианное'"
+                }
+              ],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "cId": "GSjVJ",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qDef": "Median( total  Aggr( Sum(Item_Price),  [Billing_City] )  )",
+                "qExpressions": [],
+                "qGrouping": "N",
+                "qLabel": "Осевая линия",
+                "qNumFormat": {
+                  "qnDec": 10,
+                  "qType": "U",
+                  "qUseThou": 0
+                },
+                "qTags": []
+              },
+              "qMiniChartDef": {
+                "qAttributeExpressions": [],
+                "qMaxNumberPoints": -1,
+                "qOtherTotalSpec": {
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qForceBadValueKeeping": true,
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qReferencedExpression": {},
+                  "qTotalMode": "TOTAL_OFF"
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                }
+              },
+              "qSortBy": {
+                "qExpression": {}
+              },
+              "qTrendLines": []
+            },
+            {
+              "boxElement": "boxEnd",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [
+                {
+                  "id": "tooltip",
+                  "qAttribute": true,
+                  "qExpression": "='Третий квартиль'"
+                }
+              ],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "cId": "EUdp",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qDef": "Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 )",
+                "qExpressions": [],
+                "qGrouping": "N",
+                "qLabel": "Конец поля",
+                "qNumFormat": {
+                  "qnDec": 10,
+                  "qType": "U",
+                  "qUseThou": 0
+                },
+                "qTags": []
+              },
+              "qMiniChartDef": {
+                "qAttributeExpressions": [],
+                "qMaxNumberPoints": -1,
+                "qOtherTotalSpec": {
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qForceBadValueKeeping": true,
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qReferencedExpression": {},
+                  "qTotalMode": "TOTAL_OFF"
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                }
+              },
+              "qSortBy": {
+                "qExpression": {}
+              },
+              "qTrendLines": []
+            },
+            {
+              "boxElement": "lastWhisker",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [
+                {
+                  "id": "tooltip",
+                  "qAttribute": true,
+                  "qExpression": "='Конец поля + 1.5 IQR'"
+                }
+              ],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "cId": "XSjANeF",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qDef": "Rangemin(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) + ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Max( total  Aggr( Sum(Item_Price),  [Billing_City] )  ))",
+                "qExpressions": [],
+                "qGrouping": "N",
+                "qLabel": "Последний \"ус\"",
+                "qNumFormat": {
+                  "qnDec": 10,
+                  "qType": "U",
+                  "qUseThou": 0
+                },
+                "qTags": []
+              },
+              "qMiniChartDef": {
+                "qAttributeExpressions": [],
+                "qMaxNumberPoints": -1,
+                "qOtherTotalSpec": {
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qForceBadValueKeeping": true,
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qReferencedExpression": {},
+                  "qTotalMode": "TOTAL_OFF"
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                }
+              },
+              "qSortBy": {
+                "qExpression": {}
+              },
+              "qTrendLines": []
+            }
+          ],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "hashCode": 1589076558,
+      "outliers": {
+        "qHyperCubeDef": {
+          "qAlwaysFullyExpanded": true,
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [
+            {
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "autoSort": true,
+                "cId": "PRyBt",
+                "othersLabel": "Другие",
+                "qActiveField": 0,
+                "qFieldDefs": [
+                  "=aggr( If( Sum(Item_Price) < Rangemax(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 ) - ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Min( total  Aggr( Sum(Item_Price),  [Billing_City] )  )) or Sum(Item_Price) > Rangemin(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) + ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Max( total  Aggr( Sum(Item_Price),  [Billing_City] )  )),  [Billing_City] ), [Billing_City] )"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qGrouping": "N",
+                "qNumberPresentations": [],
+                "qSortCriterias": [
+                  {
+                    "qExpression": {
+                      "qv": "=aggr( If( Sum(Item_Price) < Rangemax(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 ) - ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Min( total  Aggr( Sum(Item_Price),  [Billing_City] )  )), Rangemax(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 ) - ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Min( total  Aggr( Sum(Item_Price),  [Billing_City] )  )) - Sum(Item_Price), Sum(Item_Price) - Rangemin(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) + ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Max( total  Aggr( Sum(Item_Price),  [Billing_City] )  )) ), [Billing_City] )"
+                    },
+                    "qSortByAscii": 1,
+                    "qSortByExpression": 1,
+                    "qSortByLoadOrder": 1,
+                    "qSortByNumeric": 1
+                  }
+                ]
+              },
+              "qNullSuppression": true,
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qForceBadValueKeeping": true,
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qOtherMode": "OTHER_OFF",
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qReferencedExpression": {},
+                "qSuppressOther": true,
+                "qTotalMode": "TOTAL_OFF"
+              },
+              "qTotalLabel": {}
+            },
+            {
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "autoSort": true,
+                "cId": "HUGGvb",
+                "othersLabel": "Другие",
+                "qActiveField": 0,
+                "qFieldDefs": [
+                  "Billing_City"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qGrouping": "N",
+                "qNumberPresentations": [],
+                "qSortCriterias": [
+                  {
+                    "qExpression": {},
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qSortByNumeric": 1
+                  }
+                ]
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qForceBadValueKeeping": true,
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qOtherMode": "OTHER_OFF",
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qReferencedExpression": {},
+                "qSuppressOther": true,
+                "qTotalMode": "TOTAL_OFF"
+              },
+              "qTotalLabel": {}
+            }
+          ],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [
+            0,
+            1,
+            2
+          ],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [
+            {
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "autoSort": true,
+                "cId": "eMZnPrM",
+                "numFormatFromTemplate": true,
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qDef": "=aggr( If( Sum(Item_Price) < Rangemax(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 ) - ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Min( total  Aggr( Sum(Item_Price),  [Billing_City] )  )) or Sum(Item_Price) > Rangemin(Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) + ((Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.75 ) - Fractile( total  Aggr( Sum(Item_Price),  [Billing_City] ) ,0.25 )) * 1.5), Max( total  Aggr( Sum(Item_Price),  [Billing_City] )  )), Sum(Item_Price) ), [Billing_City] )",
+                "qExpressions": [],
+                "qGrouping": "N",
+                "qNumFormat": {
+                  "qnDec": 10,
+                  "qType": "U",
+                  "qUseThou": 0
+                },
+                "qTags": []
+              },
+              "qMiniChartDef": {
+                "qAttributeExpressions": [],
+                "qMaxNumberPoints": -1,
+                "qOtherTotalSpec": {
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qForceBadValueKeeping": true,
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qReferencedExpression": {},
+                  "qTotalMode": "TOTAL_OFF"
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                }
+              },
+              "qSortBy": {
+                "qExpression": {},
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": -1
+              },
+              "qTrendLines": []
+            }
+          ],
+          "qMode": "K",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      }
+    },
+    "refLine": {
+      "refLines": []
+    },
+    "script": "",
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showDisclaimer": true,
+    "showTitles": true,
+    "sorting": {
+      "autoSort": true,
+      "elementId": "firstWhisker",
+      "sortCriteria": {
+        "sortByAscii": 0,
+        "sortByExpression": 0,
+        "sortByNumeric": 0
+      }
+    },
+    "subtitle": "tit2 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+    "title": "tit1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+    "version": "0.38.0",
+    "visualization": "boxplot"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 0,
+  "Title": "tit1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+  "Type": "boxplot",
+  "Width": 6
+}

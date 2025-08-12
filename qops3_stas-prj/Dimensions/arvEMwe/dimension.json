@@ -1,0 +1,34 @@
+{
+  "Id": "arvEMwe",
+  "Properties": {
+    "qDim": {
+      "coloring": {
+        "baseColor": {
+          "color": "#006580",
+          "index": 6
+        },
+        "changeHash": "0.4811685095574365",
+        "hasValueColors": false
+      },
+      "qFieldDefs": [
+        "Billing_Address"
+      ],
+      "qFieldLabels": [],
+      "qGrouping": "N",
+      "title": "dim1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}"
+    },
+    "qInfo": {
+      "qId": "arvEMwe",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "dim tag1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+      "tags": [
+        "dim tag1 1123!@#$%^&*()-_=.+`\\|",
+        "dim tag2"
+      ],
+      "title": "dim1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}"
+    }
+  },
+  "QOpsVersion": "3.0.2"
+}

@@ -1,0 +1,44 @@
+{
+  "QOpsVersion": "3.0.2",
+  "Sheet": {
+    "Approved": false,
+    "Description": "",
+    "Id": "wJUnUum",
+    "Owner": {
+      "userDirectory": "DVSTS",
+      "userId": "test"
+    },
+    "Published": false,
+    "Title": "Test work"
+  },
+  "SheetProperties": {
+    "Id": "wJUnUum",
+    "Properties": {
+      "columns": 24,
+      "creationDate": "2025-02-24T08:31:33.703Z",
+      "customRowBase": 12,
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      },
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "wJUnUum",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Test work"
+      },
+      "rank": 0,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      }
+    }
+  }
+}

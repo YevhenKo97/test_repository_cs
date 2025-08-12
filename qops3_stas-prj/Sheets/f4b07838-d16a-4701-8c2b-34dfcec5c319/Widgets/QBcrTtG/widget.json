@@ -1,0 +1,59 @@
+{
+  "Children": [
+    "d4a71d73-8e55-47d6-8793-bfe42ea6eec4",
+    "8279efea-9505-45e3-b303-1ca79ad5678e"
+  ],
+  "Column": 12,
+  "Height": 6,
+  "Id": "QBcrTtG",
+  "Properties": {
+    "activeTab": "",
+    "borders": "auto",
+    "children": [
+      {
+        "isMaster": false,
+        "label": "Линейный график",
+        "refId": "vyXPEP"
+      },
+      {
+        "isMaster": false,
+        "label": "Фильтр",
+        "refId": "xdmBRp"
+      }
+    ],
+    "defaultTab": "",
+    "disableNavMenu": false,
+    "footnote": "",
+    "hasExternalChildren": false,
+    "qChildListDef": {
+      "qData": {
+        "containerChildId": "/containerChildId",
+        "qExtendsId": "/qExtendsId",
+        "showCondition": "/showCondition",
+        "title": "/title",
+        "visualization": "/visualization"
+      }
+    },
+    "qInfo": {
+      "qId": "QBcrTtG",
+      "qType": "container"
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showIcons": false,
+    "showTabs": true,
+    "showTitles": false,
+    "subtitle": "",
+    "supportRefresh": false,
+    "title": "",
+    "useDropdown": true,
+    "useScrollButton": true,
+    "visualization": "container"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 6,
+  "Title": "",
+  "Type": "container",
+  "Width": 12
+}

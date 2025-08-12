@@ -1,0 +1,50 @@
+Children:
+- 81f90269-c2ff-4e73-9194-f52923b0e47f
+- 77bcb9ac-5c4d-4106-9208-b41e41296fcd
+Id: 7c61b51b-e1fe-4df1-9f28-b9207694e1dc
+Name: 
+Properties:
+  activeTab: ""
+  appid: _self
+  borders: auto
+  children:
+  - isMaster: false
+    label: Линейный график
+    refId: vyXPEP
+  - isMaster: false
+    label: Фильтр
+    refId: xdmBRp
+  defaultTab: ""
+  disableNavMenu: false
+  footnote: ""
+  hasExternalChildren: false
+  masterVersion: 0.96
+  qChildListDef:
+    qData:
+      containerChildId: /containerChildId
+      qExtendsId: /qExtendsId
+      showCondition: /showCondition
+      title: /title
+      visualization: /visualization
+  qInfo:
+    qId: 7c61b51b-e1fe-4df1-9f28-b9207694e1dc
+    qType: masterobject
+  qMetaDef:
+    description: mo des 1123!@#$%^&*()-_=.+`\|?/<>'" asd фыё ії'  []{}
+    tags:
+    - mo tag 1123!@#$%^&*()-_=.+`\|?/
+    - mo tag2
+    title: mo 1123!@#$%^&*()-_=.+`\|?/<>'" asd фыё ії'  []{}
+  showDetails: true
+  showDetailsExpression: false
+  showIcons: false
+  showTabs: true
+  showTitles: false
+  subtitle: ""
+  supportRefresh: false
+  title: ""
+  useDropdown: true
+  useScrollButton: true
+  visualization: container
+QOpsVersion: 3.0.2
+...

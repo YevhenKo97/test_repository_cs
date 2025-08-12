@@ -1,0 +1,29 @@
+Id: 1eadcbeb-c98b-4823-bbe7-455882434ea1
+Name: bm3
+Patches: []
+Properties:
+  creationDate: 2025-01-29T14:36:02.0910000Z
+  qInfo:
+    qId: 1eadcbeb-c98b-4823-bbe7-455882434ea1
+    qType: bookmark
+  qMetaDef:
+    description: ""
+    isExtended: false
+    title: bm3
+  selectionFields: Order_Number, Billing_City, Payment_Method_Title
+  sheetId: 4dd315c1-490c-4d64-808a-8542ed9d31cf
+Published: true
+QOpsVersion: 3.0.2
+Selections:
+- Field: Billing_City
+  IsExpression: false
+  Selected:
+  - Lviv
+  - Андрушівка
+  - Бабаї
+- Field: Payment_Method_Title
+  IsExpression: false
+  Selected:
+  - LiqPay - Миттєві платежі по всьому світу
+VariableItems: []
+...

@@ -1,0 +1,31 @@
+QOpsVersion: 3.0.2
+Sheet:
+  Approved: true
+  Description: ""
+  Id: f4b07838-d16a-4701-8c2b-34dfcec5c319
+  Owner:
+    userDirectory: DVSTS
+    userId: test
+  Published: true
+  Title: sheet 1123!@#$%^&*()-_=.+`\|?/<>'" asd фыё ії'  []{}
+SheetProperties:
+  Id: f4b07838-d16a-4701-8c2b-34dfcec5c319
+  Properties:
+    columns: 24
+    gridMode: edit
+    gridResolution: small
+    qChildListDef:
+      qData:
+        title: /title
+    qInfo:
+      qId: f4b07838-d16a-4701-8c2b-34dfcec5c319
+      qType: sheet
+    qMetaDef:
+      description: ""
+      title: sheet 1123!@#$%^&*()-_=.+`\|?/<>'" asd фыё ії'  []{}
+    rank: -1
+    rows: 12
+    thumbnail:
+      qStaticContentUrlDef:
+        qUrl: /appcontent/_self/prew2.jpg
+...

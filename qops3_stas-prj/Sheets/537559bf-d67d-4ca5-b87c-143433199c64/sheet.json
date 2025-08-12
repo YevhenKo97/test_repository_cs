@@ -1,0 +1,46 @@
+{
+  "QOpsVersion": "3.0.2",
+  "Sheet": {
+    "Approved": false,
+    "Description": "",
+    "Id": "537559bf-d67d-4ca5-b87c-143433199c64",
+    "Owner": {
+      "userDirectory": "DVSTS",
+      "userId": "test"
+    },
+    "Published": false,
+    "Title": "sheet2 (1)"
+  },
+  "SheetProperties": {
+    "Id": "537559bf-d67d-4ca5-b87c-143433199c64",
+    "Properties": {
+      "columns": 24,
+      "customRowBase": 12,
+      "gridMode": "edit",
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      },
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "537559bf-d67d-4ca5-b87c-143433199c64",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "sheet2 (1)"
+      },
+      "rank": 1,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/grid(1).jpg"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "Id": "8ba3b66c-1d14-41ca-872b-53037cf3fd3c",
+  "Name": "bm1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+  "Patches": [
+    {
+      "qChildren": [
+        {
+          "qChildren": [],
+          "qInfo": {
+            "qId": "hzTadp",
+            "qType": "container"
+          },
+          "qPatches": [
+            {
+              "qOp": "add",
+              "qPath": "/qMetaDef/description",
+              "qValue": "\"mo des 1123!@#$%^&*()-_=.+`\\\\|?/<>'\\\" asd фыё ії'  []{}\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/qMetaDef/tags",
+              "qValue": "[\"mo tag 1123!@#$%^&*()-_=.+`\\\\|?/\",\"mo tag2\"]"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/qMetaDef/title",
+              "qValue": "\"mo 1123!@#$%^&*()-_=.+`\\\\|?/<>'\\\" asd фыё ії'  []{}\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/activeTab",
+              "qValue": "\"81f90269-c2ff-4e73-9194-f52923b0e47f\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/appid",
+              "qValue": "\"0ff35fe2-f17b-4b74-976c-60329c797345\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/borders",
+              "qValue": "\"auto\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/children",
+              "qValue": "[{\"refId\":\"vyXPEP\",\"label\":\"Линейный график\",\"isMaster\":false},{\"refId\":\"xdmBRp\",\"label\":\"Фильтр\",\"isMaster\":false}]"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/defaultTab",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/disableNavMenu",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/footnote",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/hasExternalChildren",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/masterVersion",
+              "qValue": "0.96"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/qChildListDef",
+              "qValue": "{\"qData\":{\"visualization\":\"/visualization\",\"containerChildId\":\"/containerChildId\",\"qExtendsId\":\"/qExtendsId\",\"title\":\"/title\",\"showCondition\":\"/showCondition\"}}"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showDetails",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showDetailsExpression",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showIcons",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showTabs",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showTitles",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/subtitle",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/supportRefresh",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/title",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/useDropdown",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/useScrollButton",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/visualization",
+              "qValue": "\"container\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/appId",
+              "qValue": "\"c7ba0198-eca6-418c-88cc-3dbc85625a7d\""
+            }
+          ]
+        }
+      ],
+      "qInfo": {
+        "qId": "42038e5e-8d05-4d00-a804-8e49696ecbe9",
+        "qType": "sheet"
+      },
+      "qPatches": []
+    },
+    {
+      "qChildren": [
+        {
+          "qChildren": [],
+          "qInfo": {
+            "qId": "QBcrTtG",
+            "qType": "container"
+          },
+          "qPatches": [
+            {
+              "qOp": "replace",
+              "qPath": "/activeTab",
+              "qValue": "\"8279efea-9505-45e3-b303-1ca79ad5678e\""
+            }
+          ]
+        }
+      ],
+      "qInfo": {
+        "qId": "f4b07838-d16a-4701-8c2b-34dfcec5c319",
+        "qType": "sheet"
+      },
+      "qPatches": []
+    }
+  ],
+  "Properties": {
+    "creationDate": "2025-01-29T14:32:38.015Z",
+    "qIncludeVariables": true,
+    "qInfo": {
+      "qId": "8ba3b66c-1d14-41ca-872b-53037cf3fd3c",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": true,
+      "title": "bm1 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}"
+    },
+    "selectionFields": "Payment_Method_Title",
+    "sheetId": "f4b07838-d16a-4701-8c2b-34dfcec5c319"
+  },
+  "Published": true,
+  "QOpsVersion": "3.0.2",
+  "Selections": [
+    {
+      "Field": "Payment_Method_Title",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "Прямий банківський переказ"
+        }
+      ]
+    }
+  ],
+  "VariableItems": [
+    {
+      "qName": "var 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+      "qValue": {
+        "qIsNumeric": false,
+        "qNumber": 0.0,
+        "qText": "var val 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}"
+      }
+    },
+    {
+      "qName": "var2",
+      "qValue": {
+        "qIsNumeric": true,
+        "qNumber": 5.0,
+        "qText": "5"
+      }
+    }
+  ]
+}

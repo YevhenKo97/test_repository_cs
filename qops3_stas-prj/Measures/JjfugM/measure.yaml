@@ -1,0 +1,28 @@
+Id: JjfugM
+Name: 
+Properties:
+  qInfo:
+    qId: JjfugM
+    qType: measure
+  qMeasure:
+    coloring:
+      baseColor:
+        color: '#83af9b'
+        index: 3
+    qActiveExpression: 0
+    qDef: Billing_City
+    qExpressions: []
+    qGrouping: N
+    qLabel: meas 1123!@#$%^&*()-_=.+`\|?/<>'" asd фыё ії'  []{}
+    qNumFormat:
+      qnDec: 10
+      qType: U
+      qUseThou: 0
+  qMetaDef:
+    description: ""
+    tags:
+    - meas tag1 1123!@#$%^&*()-_=.+`\
+    - meas tag2
+    title: meas 1123!@#$%^&*()-_=.+`\|?/<>'" asd фыё ії'  []{}
+QOpsVersion: 3.0.2
+...

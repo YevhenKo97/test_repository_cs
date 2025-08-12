@@ -1,0 +1,28 @@
+{
+  "Id": "eZDdEMh",
+  "Properties": {
+    "qInfo": {
+      "qId": "eZDdEMh",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "qActiveExpression": 0,
+      "qDef": "Billing_Country",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "meas2",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "meas2"
+    }
+  },
+  "QOpsVersion": "3.0.2"
+}

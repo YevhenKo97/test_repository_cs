@@ -1,0 +1,33 @@
+QOpsVersion: 3.0.2
+Sheet:
+  Approved: true
+  Description: ""
+  Id: 42038e5e-8d05-4d00-a804-8e49696ecbe9
+  Owner:
+    userDirectory: DVSTS
+    userId: test
+  Published: true
+  Title: emptySheet
+SheetProperties:
+  Id: 42038e5e-8d05-4d00-a804-8e49696ecbe9
+  Properties:
+    columns: 24
+    customRowBase: 12
+    gridMode: edit
+    gridResolution: small
+    layoutOptions:
+      mobileLayout: LIST
+    qChildListDef:
+      qData:
+        title: /title
+    qInfo:
+      qId: 42038e5e-8d05-4d00-a804-8e49696ecbe9
+      qType: sheet
+    qMetaDef:
+      description: ""
+      title: emptySheet
+    rank: 1
+    rows: 12
+    thumbnail:
+      qStaticContentUrlDef: {}
+...

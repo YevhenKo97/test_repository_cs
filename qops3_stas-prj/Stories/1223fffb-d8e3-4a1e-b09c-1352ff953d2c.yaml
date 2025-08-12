@@ -1,0 +1,59 @@
+Id: 1223fffb-d8e3-4a1e-b09c-1352ff953d2c
+Properties:
+  qChildListDef:
+    qData:
+      rank: /rank
+      title: /title
+  qInfo:
+    qId: 1223fffb-d8e3-4a1e-b09c-1352ff953d2c
+    qType: story
+  qMetaDef:
+    description: ""
+    title: story2
+  rank: 0
+  thumbnail:
+    qStaticContentUrlDef: {}
+QOpsVersion: 3.0.2
+Slides:
+- Items:
+  - Items: []
+    Properties:
+      dataPath: ../resources/img/storytelling/shapes/square_rounded.svg
+      position:
+        height: 11.35456%
+        left: 14.57997%
+        right: auto
+        top: 14.80883%
+        width: 39.57996%
+        z-index: 4
+      qEmbeddedSnapshotDef: {}
+      qInfo:
+        qId: XfFPgV
+        qType: slideitem
+      qMetaDef: {}
+      ratio: true
+      sheetId: ""
+      style:
+        color: '#6E6E6E'
+        text: Hello
+      title: ""
+      visualization: text
+      visualizationType: title
+  Properties:
+    qChildListDef:
+      qData:
+        dataPath: /dataPath
+        position: /position
+        ratio: /ratio
+        sheetId: /sheetId
+        srcPath: /srcPath
+        style: /style
+        title: /title
+        visualization: /visualization
+        visualizationType: /visualizationType
+    qInfo:
+      qId: rpwjsJJ
+      qType: slide
+    qMetaDef: {}
+    rank: -1
+...

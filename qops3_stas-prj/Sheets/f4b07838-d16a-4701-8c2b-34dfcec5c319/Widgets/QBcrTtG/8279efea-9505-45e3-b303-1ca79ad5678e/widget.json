@@ -1,0 +1,39 @@
+{
+  "Children": [
+    "cd4972d2-d2a0-4ae8-b4e9-2b7e78d5cf81",
+    "64d7ebf2-d360-4ab4-9505-133bb4d0a000",
+    "41bb718b-d0bf-424c-bb6f-91e1b0b9d2f1",
+    "b6a9358e-5142-41d1-b53a-1e54aedbf764"
+  ],
+  "Column": 0,
+  "Height": 0,
+  "Id": "8279efea-9505-45e3-b303-1ca79ad5678e",
+  "Properties": {
+    "containerChildId": "xdmBRp",
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {}
+    },
+    "qInfo": {
+      "qId": "8279efea-9505-45e3-b303-1ca79ad5678e",
+      "qType": "filterpane"
+    },
+    "qLayoutExclude": {
+      "disabled": {}
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "version": "0.17.4",
+    "visualization": "filterpane"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 0,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 0
+}

@@ -1,0 +1,32 @@
+{
+  "Children": [
+    "b6f98ee3-047d-409e-89d2-8891a6a68e0f"
+  ],
+  "Column": 0,
+  "Height": 6,
+  "Id": "FeysfSF",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {}
+    },
+    "qInfo": {
+      "qId": "FeysfSF",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "version": "0.17.4",
+    "visualization": "filterpane"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 6,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 6
+}

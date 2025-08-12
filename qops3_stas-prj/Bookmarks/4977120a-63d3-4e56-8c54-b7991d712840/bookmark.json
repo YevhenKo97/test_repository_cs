@@ -1,0 +1,269 @@
+{
+  "Id": "4977120a-63d3-4e56-8c54-b7991d712840",
+  "Name": "bm4",
+  "Patches": [
+    {
+      "qChildren": [
+        {
+          "qChildren": [],
+          "qInfo": {
+            "qId": "hzTadp",
+            "qType": "container"
+          },
+          "qPatches": [
+            {
+              "qOp": "add",
+              "qPath": "/qMetaDef/description",
+              "qValue": "\"mo des 1123!@#$%^&*()-_=.+`\\\\|?/<>'\\\" asd фыё ії'  []{}\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/qMetaDef/tags",
+              "qValue": "[\"mo tag 1123!@#$%^&*()-_=.+`\\\\|?/\",\"mo tag2\"]"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/qMetaDef/title",
+              "qValue": "\"mo 1123!@#$%^&*()-_=.+`\\\\|?/<>'\\\" asd фыё ії'  []{}\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/activeTab",
+              "qValue": "\"81f90269-c2ff-4e73-9194-f52923b0e47f\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/appid",
+              "qValue": "\"0ff35fe2-f17b-4b74-976c-60329c797345\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/borders",
+              "qValue": "\"auto\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/children",
+              "qValue": "[{\"refId\":\"vyXPEP\",\"label\":\"Линейный график\",\"isMaster\":false},{\"refId\":\"xdmBRp\",\"label\":\"Фильтр\",\"isMaster\":false}]"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/defaultTab",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/disableNavMenu",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/footnote",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/hasExternalChildren",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/masterVersion",
+              "qValue": "0.96"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/qChildListDef",
+              "qValue": "{\"qData\":{\"visualization\":\"/visualization\",\"containerChildId\":\"/containerChildId\",\"qExtendsId\":\"/qExtendsId\",\"title\":\"/title\",\"showCondition\":\"/showCondition\"}}"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showDetails",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showDetailsExpression",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showIcons",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showTabs",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/showTitles",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/subtitle",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/supportRefresh",
+              "qValue": "false"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/title",
+              "qValue": "\"\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/useDropdown",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/useScrollButton",
+              "qValue": "true"
+            },
+            {
+              "qOp": "add",
+              "qPath": "/visualization",
+              "qValue": "\"container\""
+            },
+            {
+              "qOp": "add",
+              "qPath": "/appId",
+              "qValue": "\"c7ba0198-eca6-418c-88cc-3dbc85625a7d\""
+            }
+          ]
+        }
+      ],
+      "qInfo": {
+        "qId": "42038e5e-8d05-4d00-a804-8e49696ecbe9",
+        "qType": "sheet"
+      },
+      "qPatches": []
+    },
+    {
+      "qChildren": [
+        {
+          "qChildren": [],
+          "qInfo": {
+            "qId": "aJXrbnm",
+            "qType": "auto-chart"
+          },
+          "qPatches": [
+            {
+              "qOp": "replace",
+              "qPath": "/qUndoExclude/generated/qHyperCubeDef/qMeasures",
+              "qValue": "[{\"qDef\":{\"qTags\":[],\"qGrouping\":\"N\",\"qDef\":\"Sum(Order_Subtotal)\",\"qNumFormat\":{\"qType\":\"U\",\"qnDec\":10,\"qUseThou\":0},\"qAggrFunc\":\"Expr\",\"qAccumulate\":0,\"qReverseSort\":true,\"qActiveExpression\":0,\"qExpressions\":[],\"autoSort\":true,\"cId\":\"bGgHhU\",\"numFormatFromTemplate\":true,\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"indicator\":{\"showTextValues\":true,\"applySegmentColors\":false,\"position\":\"right\"},\"miniChart\":{\"type\":\"sparkline\",\"colors\":{\"main\":{\"index\":6},\"max\":{\"index\":0,\"color\":\"none\"},\"min\":{\"index\":0,\"color\":\"none\"},\"first\":{\"index\":0,\"color\":\"none\"},\"last\":{\"index\":0,\"color\":\"none\"},\"positive\":{\"index\":6},\"negative\":{\"index\":10,\"color\":\"#f93f17\"}},\"showDots\":true,\"yAxis\":{\"scale\":\"local\",\"position\":\"auto\"}},\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\",\"imageSize\":\"fitHeight\",\"imagePosition\":\"topCenter\"},\"conditionalColoring\":{\"segments\":{\"limits\":[],\"paletteColors\":[{\"index\":6,\"icon\":\"dot\"}]}}},\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCond\":{},\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"qTrendLines\":[],\"qMiniChartDef\":{\"qSortBy\":{\"qExpression\":{}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{},\"qOtherLimit\":{},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qMaxNumberPoints\":-1,\"qAttributeExpressions\":[]}},{\"qDef\":{\"qTags\":[],\"qGrouping\":\"N\",\"qDef\":\"Sum(Order_Total)\",\"qNumFormat\":{\"qType\":\"U\",\"qnDec\":10,\"qUseThou\":0},\"qAggrFunc\":\"Expr\",\"qAccumulate\":0,\"qActiveExpression\":0,\"qExpressions\":[],\"autoSort\":true,\"cId\":\"unppQxk\",\"numFormatFromTemplate\":true,\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"indicator\":{\"showTextValues\":true,\"applySegmentColors\":false,\"position\":\"right\"},\"miniChart\":{\"type\":\"sparkline\",\"colors\":{\"main\":{\"index\":6},\"max\":{\"index\":0,\"color\":\"none\"},\"min\":{\"index\":0,\"color\":\"none\"},\"first\":{\"index\":0,\"color\":\"none\"},\"last\":{\"index\":0,\"color\":\"none\"},\"positive\":{\"index\":6},\"negative\":{\"index\":10,\"color\":\"#f93f17\"}},\"showDots\":true,\"yAxis\":{\"scale\":\"local\",\"position\":\"auto\"}},\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\",\"imageSize\":\"fitHeight\",\"imagePosition\":\"topCenter\"},\"conditionalColoring\":{\"segments\":{\"limits\":[],\"paletteColors\":[{\"index\":6,\"icon\":\"dot\"}]}}},\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCond\":{},\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"qTrendLines\":[],\"qMiniChartDef\":{\"qSortBy\":{\"qExpression\":{}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{},\"qOtherLimit\":{},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qMaxNumberPoints\":-1,\"qAttributeExpressions\":[]}}]"
+            },
+            {
+              "qOp": "replace",
+              "qPath": "/qUndoExclude/generated/qHyperCubeDef/qInterColumnSortOrder",
+              "qValue": "[6,0,1,2,3,4,5,7]"
+            }
+          ]
+        }
+      ],
+      "qInfo": {
+        "qId": "4dd315c1-490c-4d64-808a-8542ed9d31cf",
+        "qType": "sheet"
+      },
+      "qPatches": []
+    },
+    {
+      "qChildren": [
+        {
+          "qChildren": [],
+          "qInfo": {
+            "qId": "QBcrTtG",
+            "qType": "container"
+          },
+          "qPatches": [
+            {
+              "qOp": "replace",
+              "qPath": "/activeTab",
+              "qValue": "\"8279efea-9505-45e3-b303-1ca79ad5678e\""
+            }
+          ]
+        }
+      ],
+      "qInfo": {
+        "qId": "f4b07838-d16a-4701-8c2b-34dfcec5c319",
+        "qType": "sheet"
+      },
+      "qPatches": []
+    }
+  ],
+  "Properties": {
+    "creationDate": "2025-01-29T14:36:36.016Z",
+    "qIncludeVariables": true,
+    "qInfo": {
+      "qId": "4977120a-63d3-4e56-8c54-b7991d712840",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": true,
+      "title": "bm4"
+    },
+    "selectionFields": "Order_Number, Billing_City, Payment_Method_Title",
+    "sheetId": "4dd315c1-490c-4d64-808a-8542ed9d31cf"
+  },
+  "Published": true,
+  "QOpsVersion": "3.0.2",
+  "Selections": [
+    {
+      "Field": "Billing_City",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "Lviv"
+        },
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "Андрушівка"
+        },
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "Бабаї"
+        }
+      ]
+    },
+    {
+      "Field": "Payment_Method_Title",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "LiqPay - Миттєві платежі по всьому світу"
+        }
+      ]
+    }
+  ],
+  "VariableItems": [
+    {
+      "qName": "var 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}",
+      "qValue": {
+        "qIsNumeric": false,
+        "qNumber": 0.0,
+        "qText": "var val 1123!@#$%^&*()-_=.+`\\|?/<>'\" asd фыё ії'  []{}"
+      }
+    },
+    {
+      "qName": "var2",
+      "qValue": {
+        "qIsNumeric": true,
+        "qNumber": 1.0,
+        "qText": "1"
+      }
+    }
+  ]
+}

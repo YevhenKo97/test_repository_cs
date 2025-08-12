@@ -1,0 +1,47 @@
+Children: []
+Id: 50101a0e-9d5c-49bb-acf3-6da2b370f883
+Name: 
+Properties:
+  disableNavMenu: false
+  footnote: ""
+  qInfo:
+    qId: 50101a0e-9d5c-49bb-acf3-6da2b370f883
+    qType: listbox
+  qListObjectDef:
+    disableNavMenu: false
+    footnote: ""
+    qDef:
+      autoSort: true
+      cId: mKPJrAN
+      qActiveField: 0
+      qFieldDefs:
+      - Shipping_City
+      qFieldLabels:
+      - ""
+      qGrouping: N
+      qNumberPresentations: []
+      qSortCriterias:
+      - qExpression: {}
+        qSortByAscii: 1
+        qSortByLoadOrder: 1
+        qSortByNumeric: 1
+        qSortByState: 1
+    qExpressions: []
+    qFrequencyMode: N
+    qInitialDataFetch: []
+    qOtherTotalSpec: {}
+    qShowAlternatives: true
+    showDetails: true
+    showDetailsExpression: false
+    showTitles: true
+    subtitle: ""
+    title: ""
+  qMetaDef: {}
+  showDetails: true
+  showDetailsExpression: false
+  showTitles: true
+  subtitle: ""
+  title: Shipping_City
+  visualization: listbox
+QOpsVersion: 3.0.2
+...

@@ -1,0 +1,33 @@
+{
+  "Children": [
+    "99473363-68d1-4de8-b593-b6cee26f5bfd",
+    "1f502a13-0d5d-4cc3-9b62-377e65d04c6f"
+  ],
+  "Column": 6,
+  "Height": 6,
+  "Id": "sqgqz",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {}
+    },
+    "qInfo": {
+      "qId": "sqgqz",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "version": "0.17.4",
+    "visualization": "filterpane"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 6,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 6
+}

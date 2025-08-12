@@ -1,0 +1,14 @@
+{
+  "Description": "qops3_stas description",
+  "Id": "b5676a23-0814-414b-a731-64cf1de3158e",
+  "Name": "qops3_stas",
+  "Owner": {
+    "name": "denys.smakovskyi@ansell.com",
+    "ownerId": "65c26549833aa089697d335d"
+  },
+  "Properties": [],
+  "Published": false,
+  "QOpsVersion": "3.0.2",
+  "Space": "",
+  "ThumbnailUrl": "/appcontent/_self/preview.jpg"
+}

@@ -1,0 +1,62 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 0,
+  "Id": "b6f98ee3-047d-409e-89d2-8891a6a68e0f",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qInfo": {
+      "qId": "b6f98ee3-047d-409e-89d2-8891a6a68e0f",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "disableNavMenu": false,
+      "footnote": "",
+      "qDef": {
+        "autoSort": true,
+        "cId": "jYJP",
+        "qActiveField": 0,
+        "qFieldDefs": [
+          "Billing_City"
+        ],
+        "qFieldLabels": [
+          ""
+        ],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {},
+            "qSortByAscii": 1,
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": 1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qOtherTotalSpec": {},
+      "qShowAlternatives": true,
+      "showDetails": true,
+      "showDetailsExpression": false,
+      "showTitles": true,
+      "subtitle": "",
+      "title": ""
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": true,
+    "subtitle": "",
+    "title": "Billing_City",
+    "visualization": "listbox"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 0,
+  "Title": "Billing_City",
+  "Type": "listbox",
+  "Width": 0
+}

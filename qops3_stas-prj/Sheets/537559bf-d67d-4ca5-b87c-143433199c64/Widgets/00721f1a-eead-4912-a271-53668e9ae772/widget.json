@@ -1,0 +1,129 @@
+{
+  "Children": [],
+  "Column": 12,
+  "Height": 3,
+  "Id": "00721f1a-eead-4912-a271-53668e9ae772",
+  "Properties": {
+    "background": {
+      "isUsed": false,
+      "position": "topLeft",
+      "size": "auto",
+      "url": {}
+    },
+    "components": null,
+    "disableNavMenu": false,
+    "footnote": "",
+    "images": [
+      {
+        "id": "NVyEqS",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_060.jpg"
+          }
+        }
+      },
+      {
+        "id": "rQhPjWa",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_059.jpg"
+          }
+        }
+      },
+      {
+        "id": "fLyPa",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_058.jpg"
+          }
+        }
+      },
+      {
+        "id": "CgwYrF",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_057.jpg"
+          }
+        }
+      },
+      {
+        "id": "pTyWa",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_056.jpg"
+          }
+        }
+      },
+      {
+        "id": "QvLXZP",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_055.jpg"
+          }
+        }
+      }
+    ],
+    "markdown": "![NVyEqS](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_060.jpg)![rQhPjWa](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_059.jpg)![fLyPa](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_058.jpg)![CgwYrF](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_057.jpg)![pTyWa](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_056.jpg)![QvLXZP](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_055.jpg)",
+    "qHyperCubeDef": {
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [],
+      "qInterColumnSortOrder": [],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMeasureTotals": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "00721f1a-eead-4912-a271-53668e9ae772",
+      "qType": "text-image"
+    },
+    "qMetaDef": {},
+    "responsive": "all",
+    "script": "",
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "text-image"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 3,
+  "Title": "",
+  "Type": "text-image",
+  "Width": 12
+}

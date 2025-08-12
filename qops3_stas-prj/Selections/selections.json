@@ -1,0 +1,14 @@
+[
+  {
+    "Field": "Payment_Method_Title",
+    "IsExpression": false,
+    "QOpsVersion": "3.0.2",
+    "Selected": [
+      {
+        "IsNumeric": false,
+        "Number": 0.0,
+        "Text": "LiqPay - Миттєві платежі по всьому світу"
+      }
+    ]
+  }
+]

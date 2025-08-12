@@ -1,0 +1,6 @@
+- Field: Payment_Method_Title
+  IsExpression: false
+  QOpsVersion: 3.0.2
+  Selected:
+  - LiqPay - Миттєві платежі по всьому світу
+...

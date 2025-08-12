@@ -1,0 +1,13 @@
+{
+  "Definition": "Orders/Order",
+  "IncludeInBookmark": false,
+  "IsScript": true,
+  "Name": "currentName",
+  "NumberPresentation": {
+    "qnDec": 10,
+    "qType": "U",
+    "qUseThou": 0
+  },
+  "QOpsVersion": "3.0.2",
+  "Type": "variable"
+}

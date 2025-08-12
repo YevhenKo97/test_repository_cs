@@ -1,0 +1,33 @@
+{
+  "Children": [
+    "695d8da9-b285-435b-a40c-8b84dc45c35d",
+    "50101a0e-9d5c-49bb-acf3-6da2b370f883",
+    "ebe09c1e-5d9a-472f-af26-27b8aa44a212",
+    "769d90bb-81da-4d34-9ac1-1f95cec6f922"
+  ],
+  "Id": "77bcb9ac-5c4d-4106-9208-b41e41296fcd",
+  "Properties": {
+    "containerChildId": "xdmBRp",
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {}
+    },
+    "qInfo": {
+      "qId": "77bcb9ac-5c4d-4106-9208-b41e41296fcd",
+      "qType": "filterpane"
+    },
+    "qLayoutExclude": {
+      "disabled": {}
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "version": "0.17.4",
+    "visualization": "filterpane"
+  },
+  "QOpsVersion": "3.0.2"
+}

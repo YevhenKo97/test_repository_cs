@@ -1,0 +1,141 @@
+Children: []
+Column: 0
+Height: 3
+Id: 8cd5a9f7-8b3e-453f-9ad1-8ddb248f8fa7
+Properties:
+  components:
+  - key: general
+  - key: textAlignment
+  - key: textBehavior
+    textBehavior: responsive
+  - key: useAdvancedMode
+  - key: simpleSettings
+  disableNavMenu: true
+  fontSize: M
+  footnote: ""
+  layoutBehavior: relative
+  openUrlInNewTab: true
+  qHyperCubeDef:
+    qCalcCond: {}
+    qCalcCondition:
+      qCond: {}
+      qMsg: {}
+    qColumnOrder: []
+    qDimensions: []
+    qDynamicScript: []
+    qExpansionState: []
+    qInitialDataFetch:
+    - qHeight: 10
+      qLeft: 0
+      qTop: 0
+      qWidth: 500
+    qInterColumnSortOrder:
+    - 0
+    qLayoutExclude:
+      qHyperCubeDef:
+        qCalcCond: {}
+        qCalcCondition:
+          qCond: {}
+          qMsg: {}
+        qColumnOrder: []
+        qDimensions: []
+        qDynamicScript: []
+        qExpansionState: []
+        qInitialDataFetch: []
+        qInterColumnSortOrder: []
+        qMaxStackedCells: 5000
+        qMeasures: []
+        qMode: S
+        qNoOfLeftDims: -1
+        qPseudoDimPos: -1
+        qReductionMode: N
+        qTitle: {}
+    qMaxStackedCells: 5000
+    qMeasures:
+    - qAttributeDimensions: []
+      qAttributeExpressions: []
+      qCalcCond: {}
+      qCalcCondition:
+        qCond: {}
+        qMsg: {}
+      qDef:
+        autoSort: true
+        cId: jumWVjL
+        conditionalColoring:
+          paletteSingleColor:
+            index: 6
+          segments:
+            limits: []
+            paletteColors:
+            - index: 6
+          singleColor: 3
+          useConditionalColoring: false
+        measureAxis:
+          max: 100
+          min: 0
+        numFormatFromTemplate: true
+        qAccumulate: 0
+        qActiveExpression: 0
+        qDef: var2
+        qExpressions: []
+        qGrouping: N
+        qLabelExpression: =var2
+        qNumFormat:
+          qnDec: 10
+          qType: U
+          qUseThou: 0
+        qTags: []
+      qMiniChartDef:
+        qAttributeExpressions: []
+        qMaxNumberPoints: -1
+        qOtherTotalSpec:
+          qApplyEvenWhenPossiblyWrongResult: true
+          qForceBadValueKeeping: true
+          qOtherCounted: {}
+          qOtherLimit: {}
+          qOtherLimitMode: OTHER_GT_LIMIT
+          qOtherMode: OTHER_OFF
+          qOtherSortMode: OTHER_SORT_DESCENDING
+          qReferencedExpression: {}
+          qTotalMode: TOTAL_OFF
+        qSortBy:
+          qExpression: {}
+      qSortBy:
+        qExpression: {}
+        qSortByLoadOrder: 1
+        qSortByNumeric: -1
+      qTrendLines: []
+    qMode: S
+    qNoOfLeftDims: -1
+    qPseudoDimPos: -1
+    qReductionMode: N
+    qSuppressMissing: true
+    qTitle: {}
+  qInfo:
+    qId: 8cd5a9f7-8b3e-453f-9ad1-8ddb248f8fa7
+    qType: kpi
+  qMetaDef: {}
+  script: ""
+  sheetLink: ""
+  showDetails: true
+  showDetailsExpression: false
+  showMeasureTitle: true
+  showSecondMeasureTitle: true
+  showTitles: false
+  subtitle: ""
+  textAlign: center
+  title: ""
+  tooltip:
+    chart:
+      style:
+        size: medium
+    hideBasic: false
+  useLink: false
+  version: 0.13.4
+  visualization: kpi
+QOpsVersion: 3.0.2
+Row: 3
+Title: ""
+Type: kpi
+Width: 12
+...

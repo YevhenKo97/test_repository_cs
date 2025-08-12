@@ -1,0 +1,297 @@
+{
+  "Children": [],
+  "Column": 12,
+  "Height": 3,
+  "Id": "c94224aa-0904-4174-ba08-f3a76dca2bee",
+  "Properties": {
+    "background": {
+      "isUsed": false,
+      "position": "topLeft",
+      "size": "auto",
+      "url": {}
+    },
+    "components": null,
+    "disableNavMenu": false,
+    "footnote": "",
+    "images": [
+      {
+        "id": "qhTzraS",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_001.jpg"
+          }
+        }
+      },
+      {
+        "id": "fCtGBH",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_002.jpg"
+          }
+        }
+      },
+      {
+        "id": "gCxzQaU",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_003.jpg"
+          }
+        }
+      },
+      {
+        "id": "JwvYkf",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_004.jpg"
+          }
+        }
+      },
+      {
+        "id": "nraPZ",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_005.jpg"
+          }
+        }
+      },
+      {
+        "id": "jrHSjt",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_006.jpg"
+          }
+        }
+      },
+      {
+        "id": "nRyBjB",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_007.jpg"
+          }
+        }
+      },
+      {
+        "id": "keJUs",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_008.jpg"
+          }
+        }
+      },
+      {
+        "id": "GuLeFE",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_009.jpg"
+          }
+        }
+      },
+      {
+        "id": "HLUDV",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_010.jpg"
+          }
+        }
+      },
+      {
+        "id": "dggpMvf",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_011.jpg"
+          }
+        }
+      },
+      {
+        "id": "USPcth",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_012.jpg"
+          }
+        }
+      },
+      {
+        "id": "FdRKJZ",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_013.jpg"
+          }
+        }
+      },
+      {
+        "id": "Bseuwg",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_014.jpg"
+          }
+        }
+      },
+      {
+        "id": "rSJXVAz",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_015.jpg"
+          }
+        }
+      },
+      {
+        "id": "CeFsKd",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_016.jpg"
+          }
+        }
+      },
+      {
+        "id": "hPydHj",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_017.jpg"
+          }
+        }
+      },
+      {
+        "id": "NFvvdXF",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_018.jpg"
+          }
+        }
+      },
+      {
+        "id": "pPYaZ",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_019.jpg"
+          }
+        }
+      },
+      {
+        "id": "bakzys",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_020.jpg"
+          }
+        }
+      },
+      {
+        "id": "ubGdd",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_021.jpg"
+          }
+        }
+      },
+      {
+        "id": "hzSFzkQ",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_022.jpg"
+          }
+        }
+      },
+      {
+        "id": "JBPpcT",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_023.jpg"
+          }
+        }
+      },
+      {
+        "id": "paEShcJ",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_024.jpg"
+          }
+        }
+      },
+      {
+        "id": "eJnsC",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_025.jpg"
+          }
+        }
+      },
+      {
+        "id": "AjZBaM",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_026.jpg"
+          }
+        }
+      },
+      {
+        "id": "cRYaBh",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/_self/image_part_027.jpg"
+          }
+        }
+      }
+    ],
+    "markdown": "![pPYaZ](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_019.jpg)![bakzys](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_020.jpg)![ubGdd](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_021.jpg)![hzSFzkQ](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_022.jpg)![JBPpcT](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_023.jpg)![paEShcJ](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_024.jpg)![eJnsC](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_025.jpg)![AjZBaM](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_026.jpg)![cRYaBh](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_027.jpg)![qhTzraS](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_001.jpg)![fCtGBH](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_002.jpg)![gCxzQaU](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_003.jpg)![JwvYkf](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_004.jpg)![nraPZ](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_005.jpg)![jrHSjt](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_006.jpg)![nRyBjB](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_007.jpg)![keJUs](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_008.jpg)![GuLeFE](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_009.jpg)![HLUDV](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_010.jpg)![dggpMvf](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_011.jpg)![USPcth](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_012.jpg)![FdRKJZ](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_013.jpg)![Bseuwg](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_014.jpg)![rSJXVAz](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_015.jpg)![CeFsKd](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_016.jpg)![hPydHj](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_017.jpg)![NFvvdXF](/appcontent/c7ba0198\\-eca6\\-418c\\-88cc\\-3dbc85625a7d/image\\_part\\_018.jpg)",
+    "qHyperCubeDef": {
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [],
+      "qInterColumnSortOrder": [],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMeasureTotals": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "c94224aa-0904-4174-ba08-f3a76dca2bee",
+      "qType": "text-image"
+    },
+    "qMetaDef": {},
+    "responsive": "all",
+    "script": "",
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "text-image"
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 0,
+  "Title": "",
+  "Type": "text-image",
+  "Width": 12
+}

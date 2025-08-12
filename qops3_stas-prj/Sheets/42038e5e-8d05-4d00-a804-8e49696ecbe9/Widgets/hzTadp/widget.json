@@ -1,0 +1,19 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "hzTadp",
+  "Properties": {
+    "qExtendsId": "7c61b51b-e1fe-4df1-9f28-b9207694e1dc",
+    "qInfo": {
+      "qId": "hzTadp",
+      "qType": "container"
+    },
+    "qMetaDef": {}
+  },
+  "QOpsVersion": "3.0.2",
+  "Row": 0,
+  "Title": "",
+  "Type": "container",
+  "Width": 12
+}

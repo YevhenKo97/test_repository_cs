@@ -1,0 +1,14 @@
+{
+  "Description": "qops3_stas description",
+  "Id": "c7ba0198-eca6-418c-88cc-3dbc85625a7d",
+  "Name": "qops3_stas",
+  "Owner": {
+    "name": "Test",
+    "userDirectory": "DVSTS"
+  },
+  "Properties": [],
+  "Published": true,
+  "QOpsVersion": "3.0.2",
+  "Stream": "newstream",
+  "ThumbnailUrl": "/appcontent/_self/preview.jpg"
+}
