@@ -1,0 +1,8 @@
+AllBookmarks: false
+EOLStyle: CRLF
+IncludeBookmarks: false
+Profile: default
+SerializationType: Json
+SkipExtensions: true
+UseBuildDiffs: false
+...
